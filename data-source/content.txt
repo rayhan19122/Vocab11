@@ -1,0 +1,287 @@
+# word | meaning | 3 synonyms (;) | antonyms (;) | difficulty e/m/h | R = synonyms are closest equivalents/related words, not true synonyms
+# ---- Lecture 01 ----
+Outcome | the final result of something | result;consequence;effect | | m |
+Overcome | to succeed in dealing with a difficulty | conquer;defeat;surmount | surrender;succumb | m |
+Owe | to have to pay or give something back to someone | be indebted to;be obliged to;be in debt to | | m |
+Package | a parcel or box wrapped for sending or carrying | parcel;bundle;box | | e |
+Patient | able to stay calm and wait without getting angry | tolerant;calm;understanding | impatient;restless | m |
+Pause | to stop for a short time | stop;halt;break | continue;resume | e |
+Permission | official approval to do something | consent;approval;authorization | refusal;prohibition | m |
+Phrase | a short group of words that has a meaning | expression;saying;idiom | | m |
+Presentation | a talk that shows or explains information to an audience | talk;lecture;demonstration | | m |
+Prior | coming earlier in time | earlier;previous;former | later;subsequent | m |
+Promotion | a move to a higher position at work | advancement;rise;upgrade | demotion | m |
+Proof | evidence that shows something is true | evidence;confirmation;verification | disproof | m |
+Race | a competition to see who is fastest | competition;contest;sprint | | e |
+Reasonable | fair and sensible | fair;sensible;moderate | unreasonable;excessive | m |
+Reflection | an image you see in a mirror or on water | image;mirror image;likeness | | m |
+Refrigerator | a machine that keeps food cold | fridge;icebox;cooler | | m |
+Relief | the comfortable feeling when pain or worry ends | comfort;ease;reassurance | distress;anxiety | m |
+Repair | to fix something that is broken | fix;mend;restore | break;damage | e |
+Resolution | a firm decision to do something | determination;decision;resolve | indecision | m |
+Revenue | the money a company earns | income;earnings;proceeds | expenditure | m |
+Rough | not smooth; uneven | uneven;coarse;bumpy | smooth;even | e |
+Scale | to grow or expand a business or system | expand;grow;increase | shrink;reduce | m |
+Secure | to make safe and protected | protect;safeguard;fasten | endanger;expose | m |
+Scratch | a small cut or mark on a surface or skin | scrape;graze;mark | | e |
+Sign | to write your name on a document | autograph;endorse;initial | | e |
+# ---- Lecture 02 ----
+Session | a period of time used for one activity | meeting;period;sitting | | m |
+Structure | the way the parts of something are arranged | framework;arrangement;organization | | m |
+Sort | to arrange things into groups or order | arrange;organize;classify | jumble;scramble | e |
+Sufficient | as much as is needed | enough;adequate;ample | insufficient;inadequate | m |
+Smoke | the gas and tiny particles that rise from a fire | fumes;vapor;haze | | e | R
+Stomach | the organ or belly where food goes | belly;tummy;abdomen | | e |
+Strange | unusual and surprising | odd;unusual;peculiar | normal;ordinary;familiar | e |
+Strict | demanding that rules are obeyed | stern;firm;rigid | lenient;easygoing | m |
+Strike | a refusal to work as a protest | walkout;protest;stoppage | | m |
+String | a thin cord used to tie things | cord;twine;thread | | e |
+Succeed | to achieve what you wanted | triumph;prosper;thrive | fail | m |
+Successfully | in a way that achieves the goal | effectively;triumphantly;victoriously | unsuccessfully | h |
+Suddenly | quickly and unexpectedly | abruptly;unexpectedly;all of a sudden | gradually;slowly | m |
+Suffer | to feel pain, illness or hardship | endure;undergo;bear | | m |
+Surprised | feeling shock because of something unexpected | astonished;amazed;startled | unfazed | m |
+Tough | difficult to do or deal with | difficult;hard;challenging | easy;simple | e |
+Throw | to host or organize a party (also: to send through the air) | host;hold;organize | | e |
+Tourist | a person who travels for pleasure | traveler;visitor;sightseer | local;resident | e |
+Trouble | a problem or difficulty, often with punishment | difficulty;problem;hardship | ease | e |
+Vacation | a period of rest away from work or school | holiday;break;getaway | | m |
+Virtually | online instead of in person (also: almost) | online;digitally;remotely | in person;physically | h |
+West | the direction where the sun sets | occident;westward;western side | east | e | R
+Theme | the main subject or idea | topic;subject;motif | | m |
+Wine | an alcoholic drink made from grapes | vino;claret;vintage | | e | R
+Appearance | the way someone or something looks | look;looks;image | | m |
+# ---- Lecture 03 ----
+Adapt | to change to suit new conditions | acclimatize;modify;conform | | m |
+Adjust | to change slightly to make something fit or work better | alter;tweak;regulate | | m |
+Administrative | related to managing an organization | managerial;executive;clerical | | h |
+Altogether | in total; counting everything | in all;overall;in total | | h |
+Anyway | despite that; in any case | regardless;nevertheless;still | | m |
+Argue | to disagree or discuss with strong reasons | quarrel;dispute;debate | agree;concur | e |
+Arise | to appear or begin to happen | emerge;occur;appear | disappear;vanish | m |
+Contribute | to give something to help a shared goal | give;donate;add | withhold | m |
+Aside | to one side; away | apart;away;to one side | | e |
+Associate | to connect things in your mind | connect;link;relate | dissociate;separate | m |
+Automatic | working by itself without human control | self-operating;mechanical;robotic | manual | m |
+Automatically | by itself, without being controlled | mechanically;spontaneously;by itself | manually | h |
+Basket | a container for carrying things | hamper;container;bin | | e |
+Bet | to risk money on the result of something | wager;gamble;stake | | e |
+Beginning | the start of something | start;opening;onset | end;ending;conclusion | m |
+Bonus | extra money or reward | reward;perk;incentive | | e |
+Border | the line between two places | boundary;frontier;edge | | m |
+Branch | a local office or part of a larger organization | division;office;department | | m |
+Bridge | a structure built over a river or road | overpass;viaduct;span | | m |
+Emphasis | special importance given to something | stress;priority;prominence | | m |
+Expand | to become or make bigger | grow;enlarge;extend | shrink;contract;reduce | m |
+Bunch | a group of similar things together | cluster;bundle;group | | e |
+Cabinet | a cupboard with shelves or drawers | cupboard;locker;dresser | | m | R
+Childhood | the time when someone is a child | youth;infancy;early years | adulthood | m |
+Chip | a tiny electronic part in a computer | microchip;circuit;processor | | e |
+# ---- Lecture 04 ----
+Church | a building where Christians worship | chapel;house of worship;parish | | e | R
+Civil | relating to ordinary citizens and public works | civilian;public;municipal | military | m |
+Communication | the sharing of information | interaction;conversation;correspondence | | h |
+Coach | a person who trains a player or team | trainer;instructor;mentor | trainee | e |
+Consist | to be made up of | comprise;contain;be composed of | | m |
+Cross | to go from one side to the other | traverse;pass over;go across | | e |
+Deeply | very much; to a great degree | profoundly;intensely;greatly | slightly;shallowly | m |
+Definitely | without any doubt | certainly;surely;undoubtedly | possibly;doubtfully | h |
+Deliberately | on purpose | intentionally;purposely;knowingly | accidentally;unintentionally | h |
+Detrimental | causing harm or damage | harmful;damaging;adverse | beneficial;helpful | h |
+Document | an official or written paper | paper;record;file | | m |
+Draft | an early version of a piece of writing | outline;sketch;rough version | | e |
+Immobile | not able to move | motionless;still;stationary | mobile;moving | h |
+Dust | to wipe dust from a surface | wipe;clean;brush | | e |
+Emotion | a strong feeling such as joy or anger | feeling;sentiment;passion | apathy | m |
+Encouraging | giving hope, support or confidence | supportive;inspiring;heartening | discouraging;disheartening | h |
+Exception | something that does not follow the rule | exclusion;anomaly;special case | rule;norm | m |
+Expect | to believe something will happen | anticipate;predict;await | | e |
+Feature | an important or noticeable part | characteristic;attribute;aspect | | m |
+Former | from an earlier time | previous;past;earlier | current;present | m |
+God | the supreme being in many religions | deity;creator;the Almighty | | e | R
+Golf | a sport played by hitting a small ball into holes | sport;pastime;ball game | | e | R
+Frequent | happening often | regular;repeated;common | rare;occasional;infrequent | m |
+Merely | only; nothing more than | only;just;simply | | m |
+Hardly | almost not at all | barely;scarcely;only just | | m |
+# ---- Lecture 05 ----
+Hand-feed | to feed someone using your hand | spoon-feed;bottle-feed;feed by hand | | h | R
+Hurt | to cause pain or injury | injure;harm;wound | heal;soothe | e |
+Illegal | against the law | unlawful;illicit;criminal | legal;lawful;legitimate | m |
+Incorporate | to include something as a part of a whole | include;integrate;add | exclude;omit | h |
+Initiative | a new plan or action to solve a problem | campaign;scheme;project | | m |
+Iron | a heated tool used to press clothes flat | press;flat iron;clothes press | | e | R
+Judge | an official who decides cases in court | magistrate;justice;adjudicator | | m |
+Judgment | the ability to make good decisions | discernment;insight;opinion | | h |
+Justify | to show or prove that something is right | defend;explain;warrant | condemn;criticize | m |
+Possession | something that you own | belonging;asset;property | | m |
+Lab | a room for scientific work (short for laboratory) | laboratory;research facility;workshop | | e |
+Landscape | everything you can see in an area of land | scenery;view;countryside | | m |
+Consistent | always behaving or happening in the same way | steady;regular;constant | inconsistent;erratic | h |
+Exaggerate | to make something seem bigger or better than it is | overstate;embellish;inflate | understate;minimize | h |
+League | a group of teams that compete against each other | association;alliance;division | | m |
+Loud | making a lot of noise | noisy;deafening;booming | quiet;soft;silent | e |
+Mail | letters and packages sent by post | post;letters;correspondence | | e |
+Massive | extremely large | huge;enormous;gigantic | tiny;small;minor | m |
+Measurement | a size or amount found by measuring | dimension;size;calculation | | h |
+Mess | an untidy or dirty state | clutter;disorder;chaos | order;tidiness | e |
+Mode | a way of operating or doing something | setting;method;manner | | e |
+Mud | wet, soft earth | mire;slime;sludge | | e |
+Nasty | very unpleasant | unpleasant;horrible;foul | pleasant;nice;lovely | e |
+Native | belonging to the place where you were born | indigenous;local;original | foreign;alien | m |
+Opening | the start of an event or business | launch;inauguration;debut | closing;finale | m |
+# ---- Lecture 06 ----
+Emphasize | to give special importance to something | stress;highlight;underline | downplay;minimize | h |
+Ordinary | normal; not special | normal;usual;common | extraordinary;special;unusual | m |
+Overdo | to do something too much | overuse;overexert;go too far | | m |
+Parent | a mother or father | guardian;caregiver;mother or father | child | e | R
+Pattern | a repeated design or arrangement | design;motif;arrangement | | m |
+Enable | to make something possible | allow;permit;empower | prevent;hinder;disable | m |
+Poetry | writing in verse that expresses feelings | verse;rhyme;poems | prose | m |
+Significantly | by a large or important amount | considerably;substantially;greatly | slightly;insignificantly | h |
+Pool | a small area of water | pond;lagoon;basin | | e | R
+Possess | to own or have | own;have;hold | lack;lose | m |
+Possibility | a chance that something may happen | chance;likelihood;prospect | impossibility;certainty | h |
+Pound | a unit of weight (about 454 grams) | lb;sixteen ounces;unit of weight | | e | R
+Procedure | a set of steps for doing something | process;method;routine | | m |
+Queen | a woman who rules a country | monarch;sovereign;empress | king | e | R
+Ratio | a relationship between two amounts | proportion;rate;relation | | e |
+Readily | quickly and easily; willingly | easily;willingly;promptly | reluctantly;unwillingly | m |
+Relation | a connection between people or things | connection;relationship;link | | m |
+Relieve | to make pain or worry less | ease;soothe;alleviate | worsen;aggravate | m |
+Weird | very strange | odd;bizarre;peculiar | normal;ordinary | e |
+Respond | to reply or react | reply;answer;react | ignore | m |
+Assume | to believe something is true without proof | suppose;presume;believe | | m |
+Retain | to keep something | keep;hold;preserve | lose;release | m |
+Royal | relating to a king or queen | regal;kingly;imperial | common | m |
+Outrun | to run faster than someone | outpace;outdistance;outstrip | | m |
+Satisfaction | the pleased feeling when you get what you wanted | contentment;fulfillment;pleasure | dissatisfaction;disappointment | h |
+# ---- Lecture 07 ----
+Sector | one part of an economy or business | industry;field;division | | m |
+Anticipate | to expect or prepare for something | expect;foresee;predict | | h |
+Shame | a painful feeling of guilt or embarrassment | embarrassment;humiliation;disgrace | pride;honor | e |
+Shelter | a place that protects from weather or danger | refuge;haven;cover | | m |
+Shut | to close | close;seal;fasten | open | e |
+Signature | your name written in your own handwriting | autograph;mark;endorsement | | m |
+Significance | the importance or meaning of something | importance;relevance;value | insignificance;triviality | h |
+Split | to divide into parts or share | divide;separate;share | join;unite;combine | e |
+Strain | an injury caused by stretching a muscle too much | sprain;injury;tension | | m |
+Struggle | a hard effort or difficult situation | effort;hardship;battle | ease | m |
+Super | excellent; very good | excellent;great;fantastic | terrible;poor;awful | e |
+Swim | to move through water using your body | paddle;float;bathe | | e | R
+Tackle | to deal with a problem or challenge | handle;address;confront | avoid;ignore;evade | m |
+Tank | a large container for liquid | reservoir;vat;cistern | | e |
+Terribly | extremely; very much | extremely;awfully;dreadfully | slightly;mildly | h |
+Crew | a group of people who work together | team;staff;personnel | | m |
+Tooth | one of the hard white parts in your mouth | molar;incisor;fang | | e | R
+Whose | belonging to which person | of whom;belonging to whom;owned by whom | | e | R
+Author | the writer of a book or article | writer;novelist;creator | reader | m |
+Trust | belief that someone is honest and reliable | confidence;faith;belief | distrust;suspicion;doubt | e |
+Unfair | not treating people equally or justly | unjust;biased;partial | fair;just;impartial | m |
+Unfortunately | sadly; by bad luck | sadly;regrettably;unluckily | fortunately;luckily | h |
+Upper | higher in position | higher;top;topmost | lower;bottom | e |
+Vehicle | a machine used to carry people or goods | car;automobile;conveyance | | m |
+Visible | able to be seen | noticeable;apparent;observable | invisible;hidden;unseen | m |
+# ---- Lecture 08 ----
+County | a region of a country with its own local government | shire;district;province | | m |
+Depth | the distance from the top to the bottom | deepness;profundity;extent | height;shallowness | m |
+Waste | careless or useless use of something | misuse;squandering;loss | conservation;saving | e |
+Wife | a married woman | spouse;partner;better half | husband | e |
+Estate | a large area of land with a big house | property;land;manor | | m |
+Yours | belonging to you | your own;belonging to you;your property | | e | R
+Objective | something you aim to achieve | goal;aim;target | | h |
+Perspective | a particular way of thinking about something | viewpoint;outlook;standpoint | | h |
+Alive | living; not dead | living;breathing;live | dead;lifeless | e |
+Relevant | connected to what is being discussed | related;pertinent;applicable | irrelevant;unrelated | m |
+Appointment | an arranged time to meet someone | meeting;engagement;booking | | h |
+Arrival | the act of reaching a place | coming;entry;appearance | departure | m |
+Assist | to help | help;aid;support | hinder;obstruct | e |
+Assumption | something accepted as true without proof | presumption;belief;guess | fact;proof | h |
+Bake | to cook food in an oven | roast;cook;oven-cook | | e |
+Bar | a place that serves drinks | pub;tavern;saloon | | e |
+Baseball | a team sport played with a bat and ball | ballgame;bat-and-ball sport;pastime | | m | R
+Bell | a metal object that makes a ringing sound | chime;gong;alarm | | e | R
+Bike | a two-wheeled vehicle that you pedal | bicycle;cycle;two-wheeler | | e |
+Blame | to say someone is responsible for something bad | accuse;condemn;fault | praise;credit | e |
+Brick | a hard block used to build walls | block;building block;clay block | | e | R
+Calculate | to find an amount using mathematics | compute;work out;figure | | m |
+Rely | to depend on someone or something | depend;count;lean | doubt;distrust | e |
+Closet | a small room or cupboard for storing clothes | wardrobe;cupboard;armoire | | e |
+Clue | a piece of information that helps solve a problem | hint;sign;lead | | e |
+# ---- Lecture 09 ----
+Collar | the part of a shirt that goes around the neck | neckband;neckline;ruff | | m | R
+Comment | a remark or opinion | remark;observation;note | | m |
+Enhance | to make better | improve;boost;strengthen | worsen;reduce;diminish | m |
+Examine | to look at something carefully | inspect;check;study | ignore;neglect | m |
+False | not true | untrue;incorrect;wrong | true;correct;genuine | e |
+Feed | to give food to a person or animal | nourish;nurture;sustain | starve | e |
+Vary | to change or be different | differ;change;fluctuate | remain | m |
+Forever | for all time | eternally;permanently;always | briefly;temporarily | m |
+Gold | a valuable yellow metal | bullion;golden;gilt | | e | R
+Guidance | help and advice | advice;direction;counsel | | m |
+Accurate | exactly correct | correct;precise;exact | inaccurate;incorrect;wrong | m |
+Impress | to make someone admire you | amaze;influence;dazzle | disappoint | m |
+Install | to fix equipment in place so it can be used | set up;fit;fix | remove;uninstall | m |
+Interview | a formal meeting where someone is asked questions | meeting;audition;evaluation | | m |
+Kid | a child | child;youngster;youth | adult | e |
+Mark | a spot or sign on a surface | spot;sign;symbol | | e |
+Match | to go well with something | suit;fit;correspond | clash;differ | e |
+Mission | an important task or goal | task;assignment;purpose | | m |
+Nobody | no person at all | no one;none;not a soul | everybody;everyone | m |
+Obvious | easy to see or understand | clear;evident;apparent | unclear;hidden;obscure | m |
+Ourselves | used when we are both the doer and receiver of an action | our own selves;us;we personally | | m | R
+Capable | having the ability to do something | able;competent;skilled | incapable;incompetent | m |
+Dump | to throw something away carelessly | discard;drop;tip | keep | m |
+Participate | to take part in something | join;take part;engage | abstain;withdraw | h |
+Pleasure | a feeling of happiness or enjoyment | enjoyment;delight;joy | pain;sorrow;displeasure | m |
+# ---- Lecture 10 ----
+Priority | something more important than other things | precedence;importance;urgency | | m |
+Protection | the act of keeping safe from harm | safety;defense;shield | danger;harm | h |
+Obtain | to get something | get;acquire;gain | lose | m |
+Quarter | one of four equal parts | fourth;one fourth;25 percent | | m |
+Debt | money that you owe | liability;obligation;dues | credit;asset | e |
+Screw | a small metal fastener with a spiral edge | bolt;fastener;pin | | e | R
+Seek | to look for something | look for;search;pursue | | m |
+Wish | a hope or desire for something | desire;hope;longing | | e |
+Efficient | working well without wasting time or energy | effective;productive;capable | inefficient;wasteful | m |
+Indicate | to show or point to something | show;signal;point out | conceal;hide | m |
+Shower | a wash under falling water | rinse;wash;bath | | e | R
+Master | to learn something completely | grasp;excel at;perfect | | m |
+Slide | a smooth slope that children slide down | chute;slope;ramp | | e | R
+Strip | a long narrow piece | band;ribbon;sliver | | m |
+Suggestion | an idea offered for someone to consider | proposal;recommendation;idea | | h |
+Suit | a matching jacket and trousers | outfit;costume;ensemble | | e |
+Appeal | to be attractive or interesting | attract;interest;charm | repel;repulse | m |
+Thick | large in distance from one side to the other | broad;wide;bulky | thin;slim;slender | e |
+Tone | the quality or sound of a voice | pitch;timbre;inflection | | m |
+Totally | completely | completely;entirely;fully | partially;partly | m |
+Twice | two times | two times;double;doubly | once | e |
+Variation | a difference or change from the usual | difference;change;variety | uniformity;sameness | h |
+Whereas | used to compare two different facts | while;whilst;in contrast to | | m |
+Concern | a feeling of worry | worry;anxiety;care | calm;indifference | m |
+Wise | showing good sense and judgment | sensible;prudent;smart | foolish;unwise;silly | e |
+# ---- Lecture 11 ----
+Agent | a person who acts on behalf of others | representative;broker;dealer | principal | e |
+Anxiety | a feeling of worry or fear | worry;nervousness;unease | calm;confidence | m |
+Atmosphere | the feeling or mood of a place | ambience;mood;air | | h |
+Awareness | knowing that something exists or is important | consciousness;knowledge;understanding | ignorance;unawareness | m |
+Band | a group of musicians | group;ensemble;troupe | | e |
+Bath | the act of washing your body in a tub | wash;soak;dip | | e | R
+Block | to stop something from passing through | obstruct;close;bar | open;clear;unblock | e |
+Bone | one of the hard parts that form the skeleton | skeletal part;ossicle;bony piece | | e | R
+Bread | a baked food made from flour | loaf;bun;roll | | e | R
+Candidate | a person who applies for a job or position | applicant;nominee;contender | | m |
+Careful | paying attention to avoid mistakes or danger | cautious;attentive;watchful | careless;reckless;negligent | e |
+Climate | the usual weather conditions of a region | clime;weather pattern;weather | | m | R
+Coat | a warm piece of clothing worn outside | jacket;overcoat;cloak | | e |
+Collect | to gather things together | gather;accumulate;assemble | scatter;disperse | m |
+Combine | to join things together | mix;merge;blend | separate;divide | m |
+Command | an order given to someone | order;instruction;directive | | m |
+Comparison | looking at how things are similar or different | contrast;parallel;analogy | | h |
+Confusion | a state of not understanding clearly | bewilderment;chaos;muddle | clarity;order | h |
+Construction | the process of building something | building;erection;assembly | demolition;destruction | h |
+Contest | a competition | competition;match;challenge | | e |
+Effect | a change caused by something | result;outcome;impact | cause | e |
+Context | the situation or words around something that give it meaning | background;setting;circumstances | | m |
+Refer | to look at something for information | consult;turn to;look up | | e |
+Dig | to break up and move earth | excavate;burrow;unearth | bury;fill | e |
+District | an area of a town or region | area;zone;region | | m |

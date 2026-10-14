@@ -1,0 +1,213 @@
+@import 'tailwindcss';
+
+/* Dark mode is class-based: the app toggles `.dark` on <html> (see ProgressProvider / index.html). */
+@custom-variant dark (&:where(.dark, .dark *));
+
+/* ------------------------------------------------------------------
+   Design tokens
+   Light and dark values live here once; components only use semantic
+   names (bg-surface, text-muted, border-line, bg-brand ...).
+   Hues are kept to four: green (brand), amber (warning), rose (danger), blue (info).
+------------------------------------------------------------------- */
+:root {
+  --c-bg: #f6f5f0;
+  --c-surface: #ffffff;
+  --c-surface-2: #f0efe8;
+  --c-ink: #17211c;
+  --c-muted: #5b675f;
+  --c-line: #e2e4dc;
+  --c-line-strong: #838e86; /* control borders: >= 3:1 against surfaces (WCAG 1.4.11) */
+
+  --c-brand: #0f7a5a;
+  --c-brand-strong: #0a5f45;
+  --c-brand-soft: #dcf2e6;
+  --c-on-brand: #ffffff;
+
+  --c-warn: #a15c07;
+  --c-warn-soft: #fcefd5;
+  --c-danger: #b4343f;
+  --c-danger-soft: #fbe4e6;
+  --c-info: #2b5fb4;
+  --c-info-soft: #e0eafa;
+
+  --shadow-card: 0 1px 2px rgb(23 33 28 / 0.04), 0 8px 24px -14px rgb(23 33 28 / 0.14);
+  --shadow-pop: 0 2px 6px rgb(23 33 28 / 0.06), 0 18px 40px -16px rgb(23 33 28 / 0.28);
+}
+
+.dark {
+  --c-bg: #0e1411;
+  --c-surface: #161f1a;
+  --c-surface-2: #1d2822;
+  --c-ink: #e9f1ec;
+  --c-muted: #9aaaa0;
+  --c-line: #26342c;
+  --c-line-strong: #5d7466; /* control borders: >= 3:1 against surfaces (WCAG 1.4.11) */
+
+  --c-brand: #5fd3a0;
+  --c-brand-strong: #86e2b8;
+  --c-brand-soft: #173628;
+  --c-on-brand: #06170f;
+
+  --c-warn: #f0b45c;
+  --c-warn-soft: #3a2b12;
+  --c-danger: #f28b93;
+  --c-danger-soft: #3d1b1f;
+  --c-info: #8db4f2;
+  --c-info-soft: #17294a;
+
+  --shadow-card: 0 1px 2px rgb(0 0 0 / 0.3), 0 8px 24px -14px rgb(0 0 0 / 0.5);
+  --shadow-pop: 0 2px 6px rgb(0 0 0 / 0.4), 0 18px 40px -16px rgb(0 0 0 / 0.7);
+}
+
+@theme inline {
+  --font-sans: 'DM Sans', ui-sans-serif, system-ui, -apple-system, 'Segoe UI', sans-serif;
+  --font-display: 'Fraunces', Georgia, 'Times New Roman', serif;
+
+  --color-bg: var(--c-bg);
+  --color-surface: var(--c-surface);
+  --color-surface-2: var(--c-surface-2);
+  --color-ink: var(--c-ink);
+  --color-muted: var(--c-muted);
+  --color-line: var(--c-line);
+  --color-line-strong: var(--c-line-strong);
+  --color-brand: var(--c-brand);
+  --color-brand-strong: var(--c-brand-strong);
+  --color-brand-soft: var(--c-brand-soft);
+  --color-on-brand: var(--c-on-brand);
+  --color-warn: var(--c-warn);
+  --color-warn-soft: var(--c-warn-soft);
+  --color-danger: var(--c-danger);
+  --color-danger-soft: var(--c-danger-soft);
+  --color-info: var(--c-info);
+  --color-info-soft: var(--c-info-soft);
+
+  --shadow-card: var(--shadow-card);
+  --shadow-pop: var(--shadow-pop);
+
+  --animate-fade-up: fade-up 0.35s ease-out both;
+  --animate-pop: pop 0.22s ease-out both;
+  --animate-reveal: reveal 0.32s ease-out both;
+  --animate-toast: toast-in 0.25s ease-out both;
+}
+
+@keyframes fade-up {
+  from { opacity: 0; transform: translateY(8px); }
+  to { opacity: 1; transform: none; }
+}
+@keyframes pop {
+  from { opacity: 0; transform: scale(0.96); }
+  to { opacity: 1; transform: none; }
+}
+@keyframes reveal {
+  from { opacity: 0; transform: translateY(-6px); }
+  to { opacity: 1; transform: none; }
+}
+@keyframes toast-in {
+  from { opacity: 0; transform: translateY(12px) scale(0.98); }
+  to { opacity: 1; transform: none; }
+}
+
+/* ------------------------------------------------------------------
+   Base
+------------------------------------------------------------------- */
+@layer base {
+  html {
+    -webkit-text-size-adjust: 100%;
+    scroll-behavior: smooth;
+  }
+  body {
+    margin: 0;
+    background: var(--c-bg);
+    color: var(--c-ink);
+    font-family: var(--font-sans);
+    font-size: 16px;
+    line-height: 1.55;
+    -webkit-font-smoothing: antialiased;
+    text-rendering: optimizeLegibility;
+    overflow-x: hidden;
+  }
+  /* One visible, consistent focus ring for keyboard users. */
+  :focus-visible {
+    outline: 2px solid var(--c-brand);
+    outline-offset: 2px;
+    border-radius: 6px;
+  }
+  button, [role='button'], a, select, summary {
+    cursor: pointer;
+  }
+  button:disabled {
+    cursor: not-allowed;
+  }
+  ::selection {
+    background: var(--c-brand-soft);
+    color: var(--c-ink);
+  }
+  dialog::backdrop {
+    background: rgb(8 14 11 / 0.55);
+    backdrop-filter: blur(2px);
+  }
+}
+
+/* ------------------------------------------------------------------
+   Typography hierarchy
+------------------------------------------------------------------- */
+@layer components {
+  .t-display {
+    font-family: var(--font-display);
+    font-weight: 700;
+    letter-spacing: -0.02em;
+    line-height: 1.05;
+    font-size: clamp(2.25rem, 5vw, 3.25rem);
+  }
+  .t-h1 {
+    font-family: var(--font-display);
+    font-weight: 700;
+    letter-spacing: -0.015em;
+    line-height: 1.12;
+    font-size: clamp(1.75rem, 3.6vw, 2.35rem);
+  }
+  .t-h2 {
+    font-family: var(--font-display);
+    font-weight: 600;
+    letter-spacing: -0.01em;
+    line-height: 1.2;
+    font-size: 1.375rem;
+  }
+  .t-h3 {
+    font-weight: 700;
+    font-size: 1rem;
+    line-height: 1.35;
+  }
+  .t-eyebrow {
+    font-size: 0.75rem;
+    font-weight: 700;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    color: var(--c-muted);
+  }
+  .t-label {
+    font-size: 0.75rem;
+    font-weight: 700;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    color: var(--c-muted);
+  }
+  .t-quote {
+    font-style: italic;
+    color: var(--c-muted);
+    border-left: 3px solid var(--c-brand);
+    padding-left: 0.9rem;
+  }
+}
+
+/* ------------------------------------------------------------------
+   Motion: subtle by default, none if the user asks for less.
+------------------------------------------------------------------- */
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after {
+    animation-duration: 0.001ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.001ms !important;
+    scroll-behavior: auto !important;
+  }
+}
