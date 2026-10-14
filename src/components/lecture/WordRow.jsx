@@ -2,7 +2,9 @@ import { useId } from 'react'
 import { BookmarkCheck, ChevronDown, Layers, Sparkles, Target } from 'lucide-react'
 import { cn } from '../../utils/cn'
 import { Button } from '../common/Button'
-import { ExampleSentence, SpeakButton } from './WordDetail'
+import { ExampleSentence } from './WordDetail'
+import { SpeakButton } from './SpeakButton'
+import { TermChips, TermList } from './TermList'
 import { DifficultyBadge, StateBadge } from './WordBadges'
 
 /** One vocabulary entry in a lecture list: synonyms always visible, details expandable. */
@@ -31,17 +33,10 @@ export function WordRow({ entry, number, record, weak, expanded, onToggle, onMar
             <DifficultyBadge difficulty={entry.difficulty} />
           </div>
           <p className="mt-1.5 text-muted">{entry.meaning}</p>
-          <ol aria-label={entry.related ? 'Closest related words' : 'Synonyms'} className="mt-3 flex flex-wrap gap-2">
-            {entry.synonyms.map((synonym, index) => (
-              <li key={synonym} className="flex items-center gap-1.5 rounded-lg bg-brand-soft py-1 pr-2.5 pl-1.5 text-sm font-semibold text-brand">
-                <span aria-hidden="true" className="grid size-5 place-items-center rounded-md bg-surface text-[11px]">
-                  {index + 1}
-                </span>
-                {synonym}
-              </li>
-            ))}
-            {entry.related && <li className="self-center text-xs text-muted">(related words, no exact synonym)</li>}
-          </ol>
+          <div className="mt-3 flex flex-wrap items-center gap-x-3 gap-y-1">
+            <TermChips entry={entry} kind="synonyms" />
+            {entry.related && <span className="text-xs text-muted">(related words, no exact synonym)</span>}
+          </div>
         </div>
         <button
           type="button"
@@ -58,14 +53,18 @@ export function WordRow({ entry, number, record, weak, expanded, onToggle, onMar
       <div id={panelId} hidden={!expanded} className="animate-reveal border-t border-line px-4 py-4 sm:px-5 sm:pl-[3.75rem]">
         {expanded && (
           <div className="flex flex-col gap-4">
+            <section aria-label={entry.related ? 'Related words with examples' : 'Synonyms with examples'}>
+              <p className="t-label mb-2">{entry.related ? 'Closest related words' : 'Synonyms'}</p>
+              <TermList entry={entry} kind="synonyms" />
+            </section>
             {entry.antonyms.length > 0 && (
-              <p>
-                <span className="t-label mr-2">Antonyms</span>
-                {entry.antonyms.join(', ')}
-              </p>
+              <section aria-label="Antonyms with examples">
+                <p className="t-label mb-2">Antonyms</p>
+                <TermList entry={entry} kind="antonyms" />
+              </section>
             )}
             <div>
-              <p className="t-label mb-2">Example</p>
+              <p className="t-label mb-2">Example from the lecture</p>
               <ExampleSentence entry={entry} />
             </div>
             <div className="flex flex-wrap items-center gap-2">

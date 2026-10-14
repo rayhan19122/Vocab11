@@ -1,8 +1,36 @@
 import { readFileSync } from 'node:fs'
 import { describe, expect, it } from 'vitest'
 import { lectures, vocabulary } from '../src/data/vocabulary'
+import { splitAtTerm } from '../src/utils/terms'
 
 const pdf = JSON.parse(readFileSync(new URL('../data-source/pdf-source.json', import.meta.url), 'utf8')).lectures
+
+describe('synonym and antonym example sentences', () => {
+  it('has a sentence for every synonym and antonym, and it uses the term', () => {
+    let total = 0
+    for (const item of vocabulary) {
+      const terms = [...item.synonyms, ...item.antonyms]
+      expect(Object.keys(item.termExamples), item.word).toEqual(terms)
+      for (const term of terms) {
+        total += 1
+        const sentence = item.termExamples[term]
+        expect(sentence.length, `${item.word}/${term}`).toBeGreaterThan(11)
+        expect(splitAtTerm(sentence, term), `${item.word}/${term}: ${sentence}`).not.toBeNull()
+      }
+    }
+    expect(total).toBe(1097)
+  })
+
+  it('keeps the original PDF sentence separate from the written examples', () => {
+    for (const item of vocabulary) expect(Object.values(item.termExamples)).not.toContain(item.example)
+  })
+
+  it('highlights a term inside its sentence, including changed forms', () => {
+    expect(splitAtTerm('She conquered her fear.', 'conquer')).toMatchObject({ before: 'She ', match: 'conquered', after: ' her fear.' })
+    expect(splitAtTerm('It was a bumpy ride.', 'bumpy').match).toBe('bumpy')
+    expect(splitAtTerm('Wait for me.', 'zebra')).toBeNull()
+  })
+})
 
 describe('vocabulary dataset', () => {
   it('has 11 lectures of 25 words and 275 entries', () => {

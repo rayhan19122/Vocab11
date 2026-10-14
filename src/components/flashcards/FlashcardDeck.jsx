@@ -8,7 +8,8 @@ import { lectureLabel, wordsForSource } from '../../utils/sources'
 import { Button } from '../common/Button'
 import { Card } from '../common/Card'
 import { ProgressBar } from '../common/ProgressBar'
-import { SpeakButton, WordDetail } from '../lecture/WordDetail'
+import { SpeakButton } from '../lecture/SpeakButton'
+import { WordDetail } from '../lecture/WordDetail'
 import { StateBadge } from '../lecture/WordBadges'
 
 const RATINGS = [
@@ -168,7 +169,7 @@ export function FlashcardDeck({ source, startWordId, shuffled }) {
       </Card>
 
       {revealed && (
-        <div className="mt-4 grid animate-reveal grid-cols-3 gap-2 sm:gap-3">
+        <div className="sticky bottom-[4.75rem] z-10 mt-4 grid animate-reveal grid-cols-3 gap-2 rounded-2xl bg-bg/90 p-2 shadow-pop backdrop-blur sm:gap-3 lg:bottom-4">
           {RATINGS.map((rating) => (
             <Button key={rating.id} variant={rating.variant} size="lg" icon={rating.icon} onClick={() => rate(rating.id)} className="!h-14 flex-col !gap-0.5 sm:flex-row sm:!gap-2">
               <span>{rating.label}</span>

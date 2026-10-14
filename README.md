@@ -26,9 +26,10 @@ pnpm data:validate   # checks src/data/vocabulary.js against the PDF transcripti
 | --- | --- |
 | `data-source/pdf-source.json` | Words and original example sentences, transcribed verbatim from the PDF |
 | `data-source/content.txt` | Meaning, 3 synonyms, antonyms, difficulty for every word (`R` = no true synonym, closest related words) |
-| `src/data/vocabulary.js` | **Generated** by `pnpm data:build` from the two files above. Do not edit by hand |
+| `data-source/term-examples.txt` | An example sentence for every synonym and antonym (written for this app, not from the PDF) |
+| `src/data/vocabulary.js` | **Generated** by `pnpm data:build` from the three files above. Do not edit by hand |
 
-To change a meaning or synonym: edit `data-source/content.txt`, run `pnpm data:build`, then `pnpm data:validate`.
+To change a meaning or synonym: edit `data-source/content.txt` (and the matching line in `term-examples.txt`), run `pnpm data:build`, then `pnpm data:validate`.
 
 ## Project layout
 

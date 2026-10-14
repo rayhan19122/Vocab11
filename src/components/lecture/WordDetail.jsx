@@ -1,9 +1,8 @@
-import { Volume2 } from 'lucide-react'
-import { useSpeech } from '../../hooks/useSpeech'
 import { blankSentence } from '../../utils/fillBlank'
 import { cn } from '../../utils/cn'
 import { Badge } from '../common/Badge'
-import { IconButton } from '../common/Button'
+import { SpeakButton } from './SpeakButton'
+import { TermChips, TermList } from './TermList'
 
 /** The original example sentence with the target word highlighted. */
 export function ExampleSentence({ entry, className }) {
@@ -15,17 +14,14 @@ export function ExampleSentence({ entry, className }) {
   )
 }
 
-export function SpeakButton({ text, className }) {
-  const { supported, speaking, speak } = useSpeech()
-  if (!supported) return null
-  return <IconButton icon={Volume2} label={`Pronounce ${text}`} pressed={speaking} onClick={() => speak(text)} className={className} />
-}
-
 /**
- * Reusable vocabulary detail: meaning, 3 synonyms, antonyms and the original example.
+ * Reusable vocabulary detail: meaning, 3 synonyms and antonyms (each with a pronunciation button and
+ * an example sentence) and the original example from the PDF.
  * `showWord` adds the word as a heading with a pronunciation button.
+ * `compact` shows the terms as chips and tucks their example sentences behind a toggle.
  */
-export function WordDetail({ entry, showWord = false, headingAs: Heading = 'h3', className }) {
+export function WordDetail({ entry, showWord = false, compact = false, headingAs: Heading = 'h3', className }) {
+  const hasAntonyms = entry.antonyms.length > 0
   return (
     <div className={cn('flex flex-col gap-5', className)}>
       {showWord && (
@@ -40,38 +36,49 @@ export function WordDetail({ entry, showWord = false, headingAs: Heading = 'h3',
         <p className="text-lg">{entry.meaning}</p>
       </section>
 
-      <section aria-label={entry.related ? 'Related words' : 'Synonyms'}>
-        <p className="t-label mb-2 flex items-center gap-2">
-          {entry.related ? 'Closest related words' : 'Synonyms'}
-          {entry.related && <Badge tone="info">No exact synonym</Badge>}
-        </p>
-        <ol className="flex flex-wrap gap-2">
-          {entry.synonyms.map((synonym, index) => (
-            <li key={synonym} className="flex items-center gap-2 rounded-xl bg-brand-soft py-1.5 pr-3.5 pl-2 font-semibold text-brand">
-              <span aria-hidden="true" className="grid size-6 place-items-center rounded-lg bg-surface text-xs">
-                {index + 1}
-              </span>
-              {synonym}
-            </li>
-          ))}
-        </ol>
-      </section>
-
-      {entry.antonyms.length > 0 && (
-        <section aria-label="Antonyms">
-          <p className="t-label mb-2">Antonyms</p>
-          <ul className="flex flex-wrap gap-2">
-            {entry.antonyms.map((antonym) => (
-              <li key={antonym} className="rounded-xl bg-surface-2 px-3.5 py-1.5 font-medium">
-                {antonym}
-              </li>
-            ))}
-          </ul>
-        </section>
+      {compact ? (
+        <>
+          <section aria-label={entry.related ? 'Related words' : 'Synonyms'}>
+            <p className="t-label mb-2 flex items-center gap-2">
+              {entry.related ? 'Closest related words' : 'Synonyms'}
+              {entry.related && <Badge tone="info">No exact synonym</Badge>}
+            </p>
+            <TermChips entry={entry} kind="synonyms" />
+          </section>
+          {hasAntonyms && (
+            <section aria-label="Antonyms">
+              <p className="t-label mb-2">Antonyms</p>
+              <TermChips entry={entry} kind="antonyms" />
+            </section>
+          )}
+          <details className="group rounded-xl border border-line bg-surface px-4 py-3">
+            <summary className="cursor-pointer font-semibold text-brand">Show example sentences</summary>
+            <div className="mt-4 flex flex-col gap-5">
+              <TermList entry={entry} kind="synonyms" />
+              {hasAntonyms && <TermList entry={entry} kind="antonyms" />}
+            </div>
+          </details>
+        </>
+      ) : (
+        <>
+          <section aria-label={entry.related ? 'Related words' : 'Synonyms'}>
+            <p className="t-label mb-2 flex items-center gap-2">
+              {entry.related ? 'Closest related words' : 'Synonyms'}
+              {entry.related && <Badge tone="info">No exact synonym</Badge>}
+            </p>
+            <TermList entry={entry} kind="synonyms" />
+          </section>
+          {hasAntonyms && (
+            <section aria-label="Antonyms">
+              <p className="t-label mb-2">Antonyms</p>
+              <TermList entry={entry} kind="antonyms" />
+            </section>
+          )}
+        </>
       )}
 
-      <section aria-label="Example">
-        <p className="t-label mb-2">Example</p>
+      <section aria-label="Example from the lecture">
+        <p className="t-label mb-2">Example from the lecture</p>
         <ExampleSentence entry={entry} />
       </section>
     </div>

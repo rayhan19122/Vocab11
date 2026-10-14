@@ -37,7 +37,7 @@ export function AnswerFeedback({ question, correct }) {
           )}
         </div>
       </div>
-      {question.kind === 'synonym-match' ? <MatchBreakdown question={question} /> : <WordDetail entry={entry} showWord />}
+      {question.kind === 'synonym-match' ? <MatchBreakdown question={question} /> : <WordDetail entry={entry} showWord compact />}
     </div>
   )
 }

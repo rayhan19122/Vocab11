@@ -1,0 +1,288 @@
+# Example sentences for every synonym and antonym (written for this app; they are NOT from the PDF).
+# Format: Word | term: sentence | term: sentence ...   (the 3 synonyms first, then the antonyms, in the same order as content.txt)
+# ---- Lecture 01 ----
+Outcome | result: The result of the vote surprised everyone. | consequence: Missing the deadline had serious consequences. | effect: The new rule had a positive effect on sales.
+Overcome | conquer: She conquered her fear of speaking in public. | defeat: Our team defeated the champions in the final. | surmount: They had to surmount many obstacles to finish the project. | surrender: The rebels refused to surrender. | succumb: He did not succumb to the pressure.
+Owe | be indebted to: I am indebted to my teacher for her support. | be obliged to: Drivers are obliged to stop at a red light. | be in debt to: She is in debt to the bank for her car loan.
+Package | parcel: A parcel arrived at my door this morning. | bundle: He carried a bundle of old letters. | box: She packed the gift in a small box.
+Patient | tolerant: A tolerant teacher listens to every opinion. | calm: He stayed calm during the long delay. | understanding: My boss was understanding when I arrived late. | impatient: The impatient customer kept checking his watch. | restless: The children grew restless during the long trip.
+Pause | stop: Please stop talking for a moment. | halt: The driver had to halt at the crossing. | break: Let's take a short break before we continue. | continue: Please continue reading from page ten. | resume: The match will resume after the rain stops.
+Permission | consent: You need your parents' consent to join the trip. | approval: The plan received approval from the board. | authorization: You need authorization to enter this room. | refusal: Her refusal surprised everyone. | prohibition: There is a strict prohibition on smoking here.
+Phrase | expression: Break a leg is a common expression in the theatre. | saying: My grandmother had a saying for every situation. | idiom: Piece of cake is an idiom meaning very easy.
+Presentation | talk: She gave a short talk about healthy eating. | lecture: The professor's lecture lasted an hour. | demonstration: The chef gave a cooking demonstration.
+Prior | earlier: We met on an earlier occasion. | previous: Do you have previous experience in teaching? | former: The former manager still visits the office. | later: We can discuss this at a later date. | subsequent: Subsequent events proved him right.
+Promotion | advancement: Hard work leads to career advancement. | rise: He got a rise in rank after five years. | upgrade: The upgrade to manager came with a bigger office. | demotion: The mistake led to his demotion.
+Proof | evidence: The police found new evidence at the scene. | confirmation: I am waiting for confirmation of my booking. | verification: The bank asked for verification of my identity. | disproof: One clear example is enough for the disproof of that claim.
+Race | competition: She won first prize in the competition. | contest: The singing contest attracted hundreds of people. | sprint: He won the 100-metre sprint.
+Reasonable | fair: The shop charges a fair price. | sensible: Wearing a helmet is a sensible choice. | moderate: The hotel offers rooms at moderate prices. | unreasonable: It is unreasonable to expect results overnight. | excessive: The restaurant charged an excessive amount for water.
+Reflection | image: The mirror showed a clear image of the room. | mirror image: The lake gave a perfect mirror image of the sky. | likeness: The painting is a good likeness of the king.
+Refrigerator | fridge: Put the milk back in the fridge. | icebox: Grandpa still calls the fridge an icebox. | cooler: We packed cold drinks in a cooler for the picnic.
+Relief | comfort: The hot tea brought comfort on a cold night. | ease: The cream gave her some ease from the pain. | reassurance: Her smile gave me reassurance before the exam. | distress: The loud noise caused the child distress. | anxiety: He felt anxiety before the test.
+Repair | fix: Can you fix this broken chair? | mend: She likes to mend old clothes. | restore: Workers will restore the old building. | break: Be careful not to break the glass. | damage: Heavy rain can damage the roof.
+Resolution | determination: She showed great determination to win. | decision: The committee made a final decision. | resolve: His resolve to quit smoking never changed. | indecision: Her indecision made us miss the bus.
+Revenue | income: His monthly income has doubled. | earnings: The company's earnings rose this year. | proceeds: The proceeds from the sale go to charity. | expenditure: Government expenditure on schools increased.
+Rough | uneven: The path was uneven and hard to walk on. | coarse: The cloth felt coarse against my skin. | bumpy: It was a bumpy ride on the old road. | smooth: The baby's skin is soft and smooth. | even: The floor is even, so the table does not wobble.
+Scale | expand: They plan to expand into new cities. | grow: The shop began to grow quickly. | increase: We need to increase our production. | shrink: Sales began to shrink last year. | reduce: We must reduce our costs.
+Secure | protect: Helmets protect your head. | safeguard: Strong passwords safeguard your data. | fasten: Please fasten your seat belt. | endanger: Careless driving can endanger lives. | expose: Do not expose the photos to bright sunlight.
+Scratch | scrape: He had a scrape on his knee after the fall. | graze: The cat left a small graze on my hand. | mark: There is a mark on the wall.
+Sign | autograph: The singer agreed to autograph my book. | endorse: Remember to endorse the cheque on the back. | initial: Please initial each page of the contract.
+# ---- Lecture 02 ----
+Session | meeting: The meeting starts at nine o'clock. | period: There is a free period after lunch. | sitting: The exam was held in a single sitting.
+Structure | framework: The framework of the plan is simple. | arrangement: The arrangement of the desks was neat. | organization: The organization of the essay was clear.
+Sort | arrange: Please arrange the books by size. | organize: She will organize her notes by topic. | classify: Scientists classify animals into groups. | jumble: Do not jumble the papers together. | scramble: Do not scramble the cards before we count them.
+Sufficient | enough: We have enough food for everyone. | adequate: The room has adequate light for reading. | ample: There is ample space for the guests. | insufficient: The evidence was insufficient to prove it. | inadequate: Her old shoes were inadequate for the snow.
+Smoke | fumes: Fumes from the factory filled the air. | vapor: Vapor rose from the hot soup. | haze: A thin haze covered the city.
+Stomach | belly: The baby laughed and rubbed her belly. | tummy: My tummy hurts after eating too much. | abdomen: The doctor checked his abdomen.
+Strange | odd: It is odd that he left so early. | unusual: She has an unusual taste in music. | peculiar: There was a peculiar smell in the room. | normal: Today was a normal day at school. | ordinary: He lives an ordinary life. | familiar: The song sounded familiar to me.
+Strict | stern: The stern teacher did not smile. | firm: My parents are firm about bedtime. | rigid: The company has rigid rules. | lenient: The judge was lenient with the young man. | easygoing: My uncle is easygoing and never gets angry.
+Strike | walkout: The walkout lasted three days. | protest: Workers held a protest outside the factory. | stoppage: A work stoppage halted the trains.
+String | cord: He tied the box with a strong cord. | twine: The gardener used twine to tie the plants. | thread: She pulled a loose thread from her shirt.
+Succeed | triumph: Good will triumph over evil. | prosper: Small shops can prosper with loyal customers. | thrive: Plants thrive in bright sunlight. | fail: Many students fail because they do not practise.
+Successfully | effectively: She solved the problem effectively. | triumphantly: He raised the trophy triumphantly. | victoriously: The team returned home victoriously. | unsuccessfully: He tried unsuccessfully to open the door.
+Suddenly | abruptly: The music stopped abruptly. | unexpectedly: Our guests arrived unexpectedly. | all of a sudden: All of a sudden, it began to rain. | gradually: The sky gradually turned dark. | slowly: The snail moved slowly across the leaf.
+Suffer | endure: Patients endure a lot of pain. | undergo: He will undergo surgery next week. | bear: I cannot bear the loud noise.
+Surprised | astonished: We were astonished by the news. | amazed: She was amazed at how tall he had grown. | startled: The startled cat jumped off the sofa. | unfazed: He looked unfazed by the criticism.
+Tough | difficult: The test was difficult for most students. | hard: It is hard to learn a new language. | challenging: Climbing the mountain was challenging. | easy: The quiz was easy. | simple: The instructions are simple.
+Throw | host: They will host a party on Saturday. | hold: We hold a meeting every Monday. | organize: She helped organize the school fair.
+Tourist | traveler: The traveler carried a small backpack. | visitor: Every visitor must sign the book. | sightseer: Sightseers lined up to see the castle. | local: The local shop owner knew everyone. | resident: Each resident received a letter.
+Trouble | difficulty: He has difficulty reading small print. | problem: We have a problem with the car. | hardship: The family faced great hardship during the war. | ease: She finished the task with ease.
+Vacation | holiday: We spent the holiday at the beach. | break: The school has a long break in summer. | getaway: They planned a weekend getaway to the mountains.
+Virtually | online: The class meets online every day. | digitally: Documents were sent digitally. | remotely: She works remotely from her home. | in person: I would rather meet in person. | physically: He could not attend physically.
+West | occident: Marco Polo traveled from the occident to China. | westward: The birds flew westward at sunset. | western side: The western side of the house gets the evening sun. | east: The sun rises in the east.
+Theme | topic: The topic of today's talk is health. | subject: The subject of the book is friendship. | motif: A bird is a common motif in her poems.
+Wine | vino: He ordered a glass of vino with dinner. | claret: Claret is a type of red wine. | vintage: This vintage is from 1990.
+Appearance | look: I like the look of your new bag. | looks: He is proud of his good looks. | image: She cares about her public image.
+# ---- Lecture 03 ----
+Adapt | acclimatize: It takes time to acclimatize to a new climate. | modify: We may modify the plan if needed. | conform: Students must conform to the school rules.
+Adjust | alter: Can you alter this dress for me? | tweak: I will tweak the settings to make it faster. | regulate: Use the knob to regulate the heat.
+Administrative | managerial: She has a managerial role in the firm. | executive: He holds an executive position at the bank. | clerical: Clerical work includes filing and typing.
+Altogether | in all: In all, twenty people came. | overall: Overall, the trip was a success. | in total: In total, we spent three hours.
+Anyway | regardless: Regardless of the rain, we went out. | nevertheless: It was late; nevertheless, we kept working. | still: It was cold, but we still went swimming.
+Argue | quarrel: The brothers quarrel over small things. | dispute: They dispute the cost of the repair. | debate: Students will debate the topic tomorrow. | agree: I agree with your idea. | concur: The experts concur on this point.
+Arise | emerge: A new leader will emerge soon. | occur: Problems may occur at any time. | appear: Dark clouds began to appear. | disappear: The stars disappear at dawn. | vanish: The magician made the coin vanish.
+Contribute | give: I will give some money to the fund. | donate: Many people donate blood each year. | add: Each student can add an idea to the list. | withhold: The bank may withhold the payment.
+Aside | apart: The twins live far apart. | away: He put his phone away. | to one side: Please step to one side.
+Associate | connect: I connect that song with summer. | link: Doctors link sugar to tooth decay. | relate: Can you relate this rule to real life? | dissociate: He tried to dissociate himself from the scandal. | separate: Please separate the red clothes from the white.
+Automatic | self-operating: The self-operating door opened for us. | mechanical: A mechanical clock needs winding. | robotic: A robotic arm built the car. | manual: Driving a manual car needs practice.
+Automatically | mechanically: He answered mechanically, without thinking. | spontaneously: The crowd spontaneously began to clap. | by itself: The light turns on by itself. | manually: She had to adjust the valve manually.
+Basket | hamper: We took a picnic hamper to the park. | container: Store the rice in a clean container. | bin: Throw the paper in the bin.
+Bet | wager: He made a wager on the match. | gamble: Do not gamble your savings away. | stake: He decided to stake ten dollars on the game.
+Beginning | start: The start of the film was slow. | opening: The opening of the book is exciting. | onset: The onset of winter came early. | end: The end of the day was quiet. | ending: I loved the ending of the film. | conclusion: The conclusion of the essay was strong.
+Bonus | reward: Her reward for hard work was a day off. | perk: Free lunch is a nice perk of the job. | incentive: Prizes are an incentive to study.
+Border | boundary: The river is the boundary between the two villages. | frontier: The frontier is closed at night. | edge: He stood at the edge of the road.
+Branch | division: She works in the sales division. | office: The bank has an office in every district. | department: He leads the finance department.
+Bridge | overpass: The truck stopped under the overpass. | viaduct: The train crossed the old viaduct. | span: The new span connects the two towns.
+Emphasis | stress: The teacher put stress on good spelling. | priority: Safety is our first priority. | prominence: The news gained prominence quickly.
+Expand | grow: The city continues to grow. | enlarge: We plan to enlarge the garden. | extend: They will extend the road to the village. | shrink: Wool can shrink in hot water. | contract: Metal will contract in the cold. | reduce: Please reduce the volume.
+Bunch | cluster: A cluster of grapes hung from the vine. | bundle: She tied the sticks in a bundle. | group: A group of boys played football.
+Cabinet | cupboard: The plates are in the cupboard. | locker: He keeps his books in his locker. | dresser: The clothes are in the dresser.
+Childhood | youth: He spent his youth in a small village. | infancy: The company was still in its infancy. | early years: Her early years were spent abroad. | adulthood: She became a doctor in adulthood.
+Chip | microchip: A microchip controls the machine. | circuit: The circuit board is damaged. | processor: The phone has a fast processor.
+# ---- Lecture 04 ----
+Church | chapel: They married in a small chapel. | house of worship: A house of worship is open to everyone. | parish: The parish hosts a fair every year.
+Civil | civilian: Civilian life was quiet after the war. | public: The public library is free. | municipal: The municipal office collects the tax. | military: The military base is outside the city.
+Communication | interaction: Social interaction helps children learn. | conversation: We had a long conversation about work. | correspondence: Her correspondence with her friend lasted for years.
+Coach | trainer: The trainer taught us how to swim. | instructor: Our driving instructor was patient. | mentor: My mentor guided my career. | trainee: The trainee learned quickly.
+Consist | comprise: The team will comprise ten players. | contain: This box contains old photos. | be composed of: Water is composed of hydrogen and oxygen.
+Cross | traverse: Hikers traverse the mountain in two days. | pass over: Planes pass over our house at night. | go across: Let us go across the bridge.
+Deeply | profoundly: The story profoundly affected me. | intensely: She stared at him intensely. | greatly: I greatly admire her courage. | slightly: I am slightly tired. | shallowly: He breathed shallowly after running.
+Definitely | certainly: I will certainly call you. | surely: You will surely pass the test. | undoubtedly: She is undoubtedly the best singer here. | possibly: We could possibly leave early. | doubtfully: He looked at the offer doubtfully.
+Deliberately | intentionally: He intentionally left his keys at home. | purposely: She purposely chose a quiet seat. | knowingly: He knowingly broke the rule. | accidentally: I accidentally dropped my phone. | unintentionally: She unintentionally hurt his feelings.
+Detrimental | harmful: Smoking is harmful to your health. | damaging: Rumors can be damaging to a career. | adverse: The medicine had an adverse effect. | beneficial: Exercise is beneficial for the heart. | helpful: Her advice was very helpful.
+Document | paper: Sign the paper at the bottom. | record: The hospital keeps a record of each patient. | file: Please save the file on your computer.
+Draft | outline: Write an outline before the essay. | sketch: He made a quick sketch of the plan. | rough version: I wrote a rough version of the speech.
+Immobile | motionless: The deer stood motionless. | still: Please sit still for the photo. | stationary: The bus was stationary at the stop. | mobile: The mobile library visits our village. | moving: A moving train is hard to board.
+Dust | wipe: Wipe the table with a damp cloth. | clean: I clean my room every Saturday. | brush: She used a brush to remove the crumbs.
+Emotion | feeling: A feeling of joy filled the room. | sentiment: The sentiment of the song is sad. | passion: He plays the piano with passion. | apathy: Voter apathy was high this year.
+Encouraging | supportive: Her family is very supportive. | inspiring: The coach gave an inspiring talk. | heartening: It was heartening to see so many volunteers. | discouraging: The poor results were discouraging. | disheartening: It is disheartening to lose after so much effort.
+Exception | exclusion: Her exclusion from the team upset her. | anomaly: The warm day was an anomaly in winter. | special case: Her case is a special case. | rule: The rule applies to everyone. | norm: Long hours are the norm here.
+Expect | anticipate: We anticipate heavy traffic today. | predict: Experts predict rain tomorrow. | await: Fans await the new film.
+Feature | characteristic: Kindness is her best characteristic. | attribute: Honesty is a valuable attribute. | aspect: Safety is an important aspect of the job.
+Former | previous: My previous school was bigger. | past: Past experience helps in this work. | earlier: In earlier times, people wrote letters. | current: The current price is low. | present: The present manager is new.
+God | deity: Each village had its own deity. | creator: Many believe God is the creator of everything. | the Almighty: She prayed to the Almighty for help.
+Golf | sport: Golf is a popular sport. | pastime: Fishing is his favourite pastime. | ball game: Golf is a quiet ball game.
+Frequent | regular: She is a regular visitor. | repeated: After repeated attempts, he passed. | common: Colds are common in winter. | rare: Snow is rare here. | occasional: We have occasional showers. | infrequent: His visits are infrequent.
+Merely | only: I only wanted to help. | just: It is just a small mistake. | simply: He simply forgot the date.
+Hardly | barely: She barely slept last night. | scarcely: I scarcely knew him. | only just: We only just caught the train.
+# ---- Lecture 05 ----
+Hand-feed | spoon-feed: She has to spoon-feed her baby. | bottle-feed: They bottle-feed the lamb. | feed by hand: He likes to feed the birds by hand.
+Hurt | injure: Be careful not to injure your back. | harm: The storm did not harm anyone. | wound: A sharp knife can wound you. | heal: A cut will heal in a few days. | soothe: A warm drink can soothe a sore throat.
+Illegal | unlawful: Parking here is unlawful. | illicit: He was arrested for illicit trade. | criminal: Stealing is a criminal act. | legal: It is legal to cross here. | lawful: Her claim is lawful. | legitimate: He is the legitimate owner.
+Incorporate | include: Please include your name on the form. | integrate: Schools integrate technology into lessons. | add: Add some salt to the soup. | exclude: Do not exclude anyone from the game. | omit: Do not omit any steps.
+Initiative | campaign: The campaign promotes clean water. | scheme: A new scheme helps poor farmers. | project: The project builds homes for the poor.
+Iron | press: A steam press smooths the wrinkles quickly. | flat iron: Grandma heated the flat iron on the stove. | clothes press: A clothes press flattens shirts in seconds.
+Judge | magistrate: The magistrate heard the case. | justice: The justice read the verdict. | adjudicator: The adjudicator scored each dancer.
+Judgment | discernment: She has good discernment in choosing friends. | insight: His insight helped solve the problem. | opinion: In my opinion, the plan is good.
+Justify | defend: She can defend her choice with facts. | explain: Please explain your answer. | warrant: The facts warrant a closer look. | condemn: Leaders condemn violence. | criticize: Do not criticize others unfairly.
+Possession | belonging: The lost belonging was returned to its owner. | asset: A house is a valuable asset. | property: This is private property.
+Lab | laboratory: The laboratory is on the second floor. | research facility: The research facility studies diseases. | workshop: He repairs bikes in his workshop.
+Landscape | scenery: The scenery in the hills is lovely. | view: The view from the roof is great. | countryside: We drove through the countryside.
+Consistent | steady: He made steady progress. | regular: She goes for a regular walk. | constant: The constant noise annoyed me. | inconsistent: His results were inconsistent. | erratic: The bus service is erratic.
+Exaggerate | overstate: Do not overstate the problem. | embellish: He likes to embellish his stories. | inflate: Shops inflate prices before the holiday. | understate: Do not understate the risks. | minimize: Try to minimize waste.
+League | association: He joined the football association. | alliance: The two countries formed an alliance. | division: Our team plays in the top division.
+Loud | noisy: The classroom was noisy. | deafening: The thunder was deafening. | booming: He has a booming voice. | quiet: Please be quiet in the library. | soft: She spoke in a soft voice. | silent: The room was silent.
+Mail | post: The post arrives at noon. | letters: I wrote two letters to my friend. | correspondence: He answers his correspondence every morning.
+Massive | huge: A huge wave hit the shore. | enormous: The elephant is enormous. | gigantic: They built a gigantic tower. | tiny: A tiny ant crawled on my hand. | small: She lives in a small flat. | minor: It was a minor mistake.
+Measurement | dimension: What is the dimension of the room? | size: What size is your shoe? | calculation: The calculation took a minute.
+Mess | clutter: Clear the clutter from your desk. | disorder: The room was in disorder. | chaos: The storm caused chaos in the city. | order: Please put the books in order. | tidiness: Tidiness is important in a kitchen.
+Mode | setting: Change the setting to night. | method: Which method do you prefer? | manner: He spoke in a polite manner.
+Mud | mire: The cart sank in the mire. | slime: The snail left a trail of slime. | sludge: Sludge blocked the drain.
+Nasty | unpleasant: The medicine has an unpleasant taste. | horrible: The weather was horrible. | foul: A foul smell came from the drain. | pleasant: We had a pleasant evening. | nice: She is a nice person. | lovely: It was a lovely day.
+Native | indigenous: Kangaroos are indigenous to Australia. | local: Try the local food. | original: The original owner sold the house. | foreign: She speaks three foreign languages. | alien: The customs felt alien to him.
+Opening | launch: The launch of the app was a success. | inauguration: The inauguration of the bridge drew a crowd. | debut: Her debut as an actor was in 2020. | closing: The closing of the shop made us sad. | finale: The finale of the show was thrilling.
+# ---- Lecture 06 ----
+Emphasize | stress: Teachers stress the value of reading. | highlight: Let me highlight the key points. | underline: Underline the new words. | downplay: Do not downplay your success. | minimize: Do not minimize her efforts.
+Ordinary | normal: It was a normal school day. | usual: He took his usual seat. | common: Rice is a common food here. | extraordinary: She showed extraordinary courage. | special: Today is a special day. | unusual: What an unusual hat!
+Overdo | overuse: Do not overuse salt. | overexert: Do not overexert yourself in the heat. | go too far: Do not go too far with the joke.
+Parent | guardian: Her guardian signed the form. | caregiver: A caregiver looks after the baby. | mother or father: Each mother or father must sign here. | child: Every child needs love.
+Pattern | design: The cloth has a floral design. | motif: A leaf motif decorates the wall. | arrangement: The arrangement of the tiles forms a pattern.
+Enable | allow: Please allow me to help. | permit: The rules permit two guests. | empower: Education can empower girls. | prevent: Rain may prevent the match. | hinder: Noise can hinder study. | disable: Please disable the alarm.
+Poetry | verse: She wrote a verse for her friend. | rhyme: The rhyme made the children laugh. | poems: He reads poems every night. | prose: The book is written in simple prose.
+Significantly | considerably: Prices fell considerably. | substantially: The team improved substantially. | greatly: I greatly enjoyed the show. | slightly: The door is slightly open. | insignificantly: The change affected sales insignificantly.
+Pool | pond: Ducks swim in the pond. | lagoon: The lagoon was calm and blue. | basin: Rain filled the stone basin.
+Possess | own: They own a small farm. | have: I have two sisters. | hold: He will hold the title for a year. | lack: Many villages lack clean water. | lose: Do not lose your ticket.
+Possibility | chance: There is a chance of rain. | likelihood: The likelihood of snow is low. | prospect: The prospect of travel excites her. | impossibility: The impossibility of the task was clear. | certainty: Victory was no certainty.
+Pound | lb: The bag weighs ten lb. | sixteen ounces: A pound has sixteen ounces. | unit of weight: A pound is a unit of weight.
+Procedure | process: The process takes five minutes. | method: This method saves time. | routine: Her morning routine never changes.
+Queen | monarch: The monarch waved to the crowd. | sovereign: The sovereign signed the law. | empress: The empress ruled for forty years. | king: The king lived in a castle.
+Ratio | proportion: The proportion of girls in the class is high. | rate: The rate of exchange changes daily. | relation: The relation between speed and time is simple.
+Readily | easily: She easily found the answer. | willingly: He willingly helped us. | promptly: Please reply promptly. | reluctantly: He reluctantly agreed. | unwillingly: She unwillingly gave up her seat.
+Relation | connection: There is a connection between sleep and health. | relationship: Their relationship is strong. | link: Scientists found a link between the two events.
+Relieve | ease: This cream will ease the pain. | soothe: Music can soothe a baby. | alleviate: Rest can alleviate headaches. | worsen: Stress can worsen your health. | aggravate: Scratching will aggravate the rash.
+Weird | odd: He wore an odd hat. | bizarre: The dream was bizarre. | peculiar: There is a peculiar noise outside. | normal: Everything seems normal. | ordinary: It was an ordinary day.
+Respond | reply: Please reply to my message. | answer: She will answer the phone. | react: How did he react to the news? | ignore: Do not ignore the warning.
+Assume | suppose: I suppose you are tired. | presume: I presume you have eaten. | believe: I believe he is right.
+Retain | keep: Please keep your receipt. | hold: He will hold the ticket for you. | preserve: Salt helps preserve fish. | lose: Do not lose hope. | release: The zoo will release the bird.
+Royal | regal: She walked with a regal air. | kingly: He gave a kingly gift. | imperial: The imperial palace is huge. | common: The common people cheered.
+Outrun | outpace: She can outpace her classmates. | outdistance: He tried to outdistance his rivals. | outstrip: Demand will outstrip supply.
+Satisfaction | contentment: She read with great contentment. | fulfillment: Teaching gives her fulfillment. | pleasure: He took pleasure in cooking. | dissatisfaction: There is dissatisfaction with the service. | disappointment: His disappointment was clear.
+# ---- Lecture 07 ----
+Sector | industry: The tourism industry is growing. | field: He works in the medical field. | division: The sales division did well.
+Anticipate | expect: We expect good weather. | foresee: No one could foresee the problem. | predict: Can you predict the winner?
+Shame | embarrassment: She blushed with embarrassment. | humiliation: He felt humiliation after the mistake. | disgrace: The scandal brought disgrace to the club. | pride: She felt pride in her work. | honor: It is an honor to meet you.
+Shelter | refuge: The cave offered refuge from the storm. | haven: The park is a haven for birds. | cover: We took cover under a tree.
+Shut | close: Please close the window. | seal: Seal the box with tape. | fasten: Fasten the gate with a latch. | open: Open the door, please.
+Signature | autograph: He asked for her autograph. | mark: She made her mark on the page. | endorsement: The cheque needs your endorsement.
+Significance | importance: Think about the importance of sleep. | relevance: The relevance of the story is clear. | value: The value of friendship is great. | insignificance: He felt the insignificance of his problem. | triviality: Forget the triviality of the quarrel.
+Split | divide: Divide the cake into four pieces. | separate: Separate the eggs, please. | share: Let us share the cost. | join: Join the two ropes. | unite: The cause will unite the people. | combine: Combine the flour and sugar.
+Strain | sprain: She had a sprain in her ankle. | injury: He missed the game due to an injury. | tension: I felt tension in my neck.
+Struggle | effort: It took great effort to finish. | hardship: They survived years of hardship. | battle: She won her battle with illness. | ease: He passed with ease.
+Super | excellent: She did an excellent job. | great: That was a great idea. | fantastic: What a fantastic view! | terrible: The weather was terrible. | poor: The poor results surprised him. | awful: The food tasted awful.
+Swim | paddle: The children paddle in the shallow water. | float: Leaves float on the pond. | bathe: They bathe in the river.
+Tackle | handle: Can you handle this task? | address: We must address the issue now. | confront: She had to confront her fear. | avoid: Avoid the busy road. | ignore: Do not ignore your homework. | evade: He tried to evade the question.
+Tank | reservoir: The reservoir supplies the town. | vat: The dye is in a large vat. | cistern: Rainwater fills the cistern.
+Terribly | extremely: I am extremely tired. | awfully: It is awfully cold today. | dreadfully: She was dreadfully late. | slightly: I was slightly late. | mildly: He was mildly surprised.
+Crew | team: The rescue team arrived quickly. | staff: The hotel staff were polite. | personnel: Military personnel guarded the gate.
+Tooth | molar: The dentist pulled a molar. | incisor: An incisor cuts food. | fang: The snake has a sharp fang.
+Whose | of whom: The man of whom I spoke is here. | belonging to whom: Check the tag to see belonging to whom the bag is. | owned by whom: Can you tell me by whom the land is owned?
+Author | writer: The writer signed copies of her book. | novelist: The novelist wrote ten books. | creator: The creator of the game is a student. | reader: Each reader enjoyed the story.
+Trust | confidence: I have confidence in you. | faith: She has faith in her friends. | belief: His belief in her never changed. | distrust: Distrust grew between them. | suspicion: The police looked at him with suspicion. | doubt: I have no doubt about it.
+Unfair | unjust: The rule is unjust. | biased: The judge seemed biased. | partial: A partial referee ruined the game. | fair: A fair game pleases everyone. | just: A just ruler listens to all. | impartial: An impartial judge decided the case.
+Unfortunately | sadly: Sadly, the show was cancelled. | regrettably: Regrettably, we cannot attend. | unluckily: Unluckily, I lost my keys. | fortunately: Fortunately, nobody was hurt. | luckily: Luckily, we caught the bus.
+Upper | higher: He lives on a higher floor. | top: The book is on the top shelf. | topmost: She reached the topmost branch. | lower: The lower shelf is empty. | bottom: Look at the bottom of the page.
+Vehicle | car: He drives a small car. | automobile: The automobile was invented long ago. | conveyance: A bus is a cheap conveyance.
+Visible | noticeable: The stain is noticeable. | apparent: His joy was apparent. | observable: The change is easily observable. | invisible: The wind is invisible. | hidden: A key was hidden under the mat. | unseen: Unseen forces moved the leaves.
+# ---- Lecture 08 ----
+County | shire: He comes from a quiet shire. | district: The district has three schools. | province: The province is rich in farms.
+Depth | deepness: The deepness of the lake surprised us. | profundity: The profundity of her thought amazed us. | extent: The extent of the damage is huge. | height: Measure the height of the wall. | shallowness: The shallowness of the pool makes it safe.
+Waste | misuse: Misuse of water is harmful. | squandering: The squandering of money ruined the firm. | loss: Throwing food away is a loss. | conservation: Water conservation is important. | saving: Energy saving cuts bills.
+Wife | spouse: Her spouse works abroad. | partner: He thanked his partner for the support. | better half: He introduced his better half. | husband: Her husband cooks dinner.
+Estate | property: They sold the property last year. | land: The land stretches to the river. | manor: The manor stands on a hill.
+Yours | your own: Is this your own book? | belonging to you: Is the red umbrella belonging to you? | your property: The book is your property.
+Objective | goal: Her goal is to win. | aim: The aim of the lesson is clear. | target: We met our target.
+Perspective | viewpoint: I see your viewpoint. | outlook: He has a positive outlook. | standpoint: From my standpoint, the plan is fine.
+Alive | living: Living things need water. | breathing: The patient is still breathing. | live: Live animals were on show. | dead: The plant was dead. | lifeless: The desert seems lifeless.
+Relevant | related: Bring all related documents. | pertinent: That is a pertinent question. | applicable: The rule is applicable to all. | irrelevant: Her remark was irrelevant. | unrelated: The two events are unrelated.
+Appointment | meeting: I have a meeting at noon. | engagement: She has a prior engagement. | booking: I made a booking for dinner.
+Arrival | coming: The coming of spring is welcome. | entry: His entry caused a stir. | appearance: Her sudden appearance surprised us. | departure: The departure of the train was late.
+Assist | help: Please help me carry this. | aid: The nurse will aid the patient. | support: Friends support each other. | hinder: Heavy snow will hinder travel. | obstruct: Do not obstruct the path.
+Assumption | presumption: It was a false presumption. | belief: It is my belief that he is honest. | guess: My guess is that he is late. | fact: It is a fact that water boils. | proof: Show me proof.
+Bake | roast: We roast chicken on Sundays. | cook: I cook rice daily. | oven-cook: You can oven-cook the fish.
+Bar | pub: We met at a pub. | tavern: The old tavern serves soup. | saloon: The cowboy walked into the saloon.
+Baseball | ballgame: We watched a ballgame. | bat-and-ball sport: Cricket is a bat-and-ball sport. | pastime: Baseball is a pastime in the United States.
+Bell | chime: The chime of the clock rang. | gong: The gong sounded at dawn. | alarm: The fire alarm went off.
+Bike | bicycle: She rides a bicycle to school. | cycle: He oiled his cycle. | two-wheeler: A two-wheeler is easy to park.
+Blame | accuse: Do not accuse him without proof. | condemn: The leaders condemn violence. | fault: They fault him for the delay. | praise: Teachers praise good work. | credit: She deserves credit for the idea.
+Brick | block: Build the wall block by block. | building block: A building block is a toy for children. | clay block: A clay block is baked hard.
+Calculate | compute: Computers compute fast. | work out: Work out the total cost. | figure: Figure out how much you owe.
+Rely | depend: Children depend on their parents. | count: You can count on me. | lean: Do not lean on others too much. | doubt: I doubt his story. | distrust: Do not distrust your friends.
+Closet | wardrobe: Her wardrobe is full. | cupboard: The cupboard is in the kitchen. | armoire: The armoire holds her coats.
+Clue | hint: Give me a hint. | sign: There was no sign of him. | lead: The police have a new lead.
+# ---- Lecture 09 ----
+Collar | neckband: The neckband is too tight. | neckline: The dress has a low neckline. | ruff: He wore a stiff ruff around his neck.
+Comment | remark: He made a rude remark. | observation: Her observation was clever. | note: Leave a note on the door.
+Enhance | improve: Practice will improve your skills. | boost: Vitamins boost your energy. | strengthen: Exercise can strengthen your legs. | worsen: Lack of sleep can worsen headaches. | reduce: Reduce the noise. | diminish: The pain will diminish soon.
+Examine | inspect: The officer will inspect the bags. | check: Check your answers. | study: Scientists study the stars. | ignore: Do not ignore the signs. | neglect: Do not neglect your health.
+False | untrue: The rumor is untrue. | incorrect: That answer is incorrect. | wrong: He gave the wrong number. | true: The story is true. | correct: Your answer is correct. | genuine: This is a genuine diamond.
+Feed | nourish: Good food will nourish the body. | nurture: Parents nurture their children. | sustain: Bread alone cannot sustain him. | starve: Do not starve the pets.
+Vary | differ: Opinions differ on this. | change: Moods change quickly. | fluctuate: Prices fluctuate daily. | remain: The price will remain the same.
+Forever | eternally: The sun shines eternally in the story. | permanently: He left the town permanently. | always: She is always kind. | briefly: He spoke briefly. | temporarily: The road is closed temporarily.
+Gold | bullion: The bank stores gold bullion. | golden: She wore a golden ring. | gilt: The frame was covered in gilt.
+Guidance | advice: Ask your teacher for advice. | direction: Under her direction, the team improved. | counsel: He sought counsel from a lawyer.
+Accurate | correct: Give me the correct time. | precise: Be precise in your report. | exact: I need the exact amount. | inaccurate: The map is inaccurate. | incorrect: The date on the form is incorrect. | wrong: That is the wrong key.
+Impress | amaze: Magicians amaze the crowd. | influence: Teachers influence students. | dazzle: The lights dazzle the audience. | disappoint: I do not want to disappoint you.
+Install | set up: I will set up the printer. | fit: The workers fit new windows. | fix: Fix the shelf to the wall. | remove: Remove the old software. | uninstall: You can uninstall the app.
+Interview | meeting: A meeting with the director is set. | audition: The audition is on Friday. | evaluation: The evaluation takes an hour.
+Kid | child: Each child got a toy. | youngster: The youngster ran fast. | youth: The youth club meets today. | adult: An adult must sign here.
+Mark | spot: There is a spot on my shirt. | sign: There was a sign of life in the house. | symbol: The dove is a symbol of peace.
+Match | suit: That color suits you. | fit: The key does not fit. | correspond: The two lists correspond. | clash: The colors clash. | differ: The twins differ in height.
+Mission | task: Her task was to clean the lab. | assignment: The assignment is due Monday. | purpose: His purpose is to help.
+Nobody | no one: No one answered the door. | none: None of them came. | not a soul: There was not a soul on the street. | everybody: Everybody loves a party. | everyone: Everyone must sign.
+Obvious | clear: The answer is clear. | evident: His joy was evident. | apparent: It was apparent he was tired. | unclear: The rules are unclear. | hidden: The meaning was hidden. | obscure: The meaning is obscure.
+Ourselves | our own selves: We must trust our own selves. | us: Let us keep it among us. | we personally: We personally cleaned the room.
+Capable | able: She is able to swim. | competent: A competent doctor treated him. | skilled: He is a skilled carpenter. | incapable: He is incapable of lying. | incompetent: The incompetent clerk lost the file.
+Dump | discard: Discard the old papers. | drop: Do not drop litter. | tip: Tip the waste into the bin. | keep: Keep the receipt.
+Participate | join: Join us for lunch. | take part: Take part in the quiz. | engage: Engage in the discussion. | abstain: He chose to abstain from voting. | withdraw: She had to withdraw from the race.
+Pleasure | enjoyment: Reading brings me enjoyment. | delight: The children screamed with delight. | joy: Her face lit up with joy. | pain: He felt pain in his leg. | sorrow: She felt deep sorrow. | displeasure: He showed his displeasure.
+# ---- Lecture 10 ----
+Priority | precedence: Safety takes precedence over speed. | importance: Know the importance of rest. | urgency: She felt the urgency of the task.
+Protection | safety: Helmets give safety. | defense: A wall gives defense against floods. | shield: A shield protects the knight. | danger: Fire is a danger. | harm: The drug did no harm.
+Obtain | get: I will get the tickets. | acquire: He wants to acquire new skills. | gain: She will gain experience. | lose: Do not lose the key.
+Quarter | fourth: A fourth of the class is absent. | one fourth: One fourth of the cake is left. | 25 percent: Only 25 percent of the students passed.
+Debt | liability: The firm has a liability of a million. | obligation: He has an obligation to pay. | dues: Pay your dues on time. | credit: He has good credit. | asset: Land is an asset.
+Screw | bolt: Tighten the bolt with a wrench. | fastener: A zip is a fastener. | pin: He fixed the paper with a pin.
+Seek | look for: I look for my keys. | search: They search the forest. | pursue: She will pursue her dream.
+Wish | desire: He has a desire to travel. | hope: My hope is to pass. | longing: She felt a longing for home.
+Efficient | effective: The effective plan saved time. | productive: It was a productive day. | capable: A capable worker finishes early. | inefficient: The old system is inefficient. | wasteful: Leaving lights on is wasteful.
+Indicate | show: The map will show the route. | signal: The light will signal the train. | point out: Let me point out the mistake. | conceal: He tried to conceal the truth. | hide: Do not hide the gift.
+Shower | rinse: Rinse the soap off. | wash: Wash your hands. | bath: She took a quick bath.
+Master | grasp: He can grasp new ideas fast. | excel at: She will excel at math. | perfect: Practice to perfect your skill.
+Slide | chute: The kids slid down the chute. | slope: Ski down the slope. | ramp: The ramp helps wheelchairs.
+Strip | band: Wear a band on your wrist. | ribbon: She tied a ribbon in her hair. | sliver: A sliver of light came through the door.
+Suggestion | proposal: The council accepted the proposal. | recommendation: Thanks for your recommendation. | idea: That is a good idea.
+Suit | outfit: She wore a nice outfit. | costume: He wore a costume to the party. | ensemble: The ensemble was a perfect match.
+Appeal | attract: Flowers attract bees. | interest: The story will interest you. | charm: Her smile can charm anyone. | repel: Bad smells repel flies. | repulse: The dirty room will repulse guests.
+Thick | broad: He has broad shoulders. | wide: She wore a wide belt. | bulky: A bulky coat keeps you warm. | thin: A thin sheet covered him. | slim: She holds a slim book. | slender: A slender tree swayed.
+Tone | pitch: Her voice has a high pitch. | timbre: The timbre of the flute is soft. | inflection: Listen to the inflection in his voice.
+Totally | completely: I am completely sure. | entirely: The room was entirely dark. | fully: She is fully prepared. | partially: The road is partially blocked. | partly: It is partly true.
+Twice | two times: I called two times. | double: Prices will double. | doubly: She was doubly pleased. | once: I visited once.
+Variation | difference: There is a big difference. | change: A change in plan helps. | variety: A variety of fruits is on sale. | uniformity: The uniformity of the houses is dull. | sameness: The sameness of the work bored him.
+Whereas | while: Tom likes tea while Sam likes coffee. | whilst: Whilst I agree, I have doubts. | in contrast to: In contrast to his brother, he is shy.
+Concern | worry: I have a worry about the exam. | anxiety: She felt anxiety before the speech. | care: Handle with care. | calm: Please stay calm during the fire drill. | indifference: His indifference hurt her.
+Wise | sensible: A sensible person saves money. | prudent: It is prudent to check the weather. | smart: She made a smart choice. | foolish: It was foolish to ignore the sign. | unwise: It is unwise to drive tired. | silly: That was a silly mistake.
+# ---- Lecture 11 ----
+Agent | representative: A sales representative called me. | broker: The broker found a buyer. | dealer: The dealer sold cars. | principal: The principal signed the deal.
+Anxiety | worry: Worry kept her awake. | nervousness: His nervousness was clear. | unease: She felt unease in the dark. | calm: The sea was calm. | confidence: She spoke with confidence.
+Atmosphere | ambience: The cafe has a warm ambience. | mood: The mood in the room was cheerful. | air: There was an air of excitement.
+Awareness | consciousness: He lost consciousness. | knowledge: Knowledge is power. | understanding: He has an understanding of math. | ignorance: Ignorance is not bliss. | unawareness: His unawareness of the rules caused a fine.
+Band | group: A group of singers performed. | ensemble: The ensemble played jazz. | troupe: The troupe toured the country.
+Bath | wash: Give the dog a wash. | soak: A soak in the tub relaxes me. | dip: She took a dip in the pool.
+Block | obstruct: Do not obstruct the exit. | close: Police close the road. | bar: They bar entry after nine. | open: Open the gate. | clear: Clear the path. | unblock: Plumbers unblock the pipe.
+Bone | skeletal part: The rib is a skeletal part. | ossicle: An ossicle is a tiny bone in the ear. | bony piece: A bony piece was left in the fish.
+Bread | loaf: She bought a loaf from the bakery. | bun: He ate a sweet bun. | roll: I had a roll with butter.
+Candidate | applicant: Each applicant took a test. | nominee: The nominee gave a speech. | contender: She is a strong contender.
+Careful | cautious: Be cautious near the edge. | attentive: An attentive student takes notes. | watchful: The watchful guard saw him. | careless: A careless mistake cost him. | reckless: Reckless driving is dangerous. | negligent: The negligent worker was fired.
+Climate | clime: Birds fly to a warmer clime. | weather pattern: The weather pattern changed. | weather: The weather is hot today.
+Coat | jacket: Wear a jacket tonight. | overcoat: He wore a black overcoat. | cloak: She wore a velvet cloak.
+Collect | gather: Gather your things. | accumulate: Dust will accumulate on the shelf. | assemble: Assemble the team at nine. | scatter: Do not scatter the papers. | disperse: The crowd began to disperse.
+Combine | mix: Mix the paint well. | merge: Two roads merge ahead. | blend: Blend the fruit into a drink. | separate: Separate the white clothes. | divide: Divide the class in two.
+Command | order: The captain gave an order. | instruction: Follow the instruction. | directive: A new directive came from the head office.
+Comparison | contrast: There is a contrast between them. | parallel: Draw a parallel between the two events. | analogy: He used an analogy to explain.
+Confusion | bewilderment: She stared in bewilderment. | chaos: Chaos filled the street. | muddle: The papers are in a muddle. | clarity: The teacher spoke with clarity. | order: Keep the files in order.
+Construction | building: The building of the bridge took years. | erection: The erection of the tent was quick. | assembly: The assembly of the toy took an hour. | demolition: The demolition of the old hall began. | destruction: The storm caused destruction.
+Contest | competition: The competition ends today. | match: The match starts at six. | challenge: Take up the challenge.
+Effect | result: The result was good. | outcome: The outcome was positive. | impact: The film made a big impact. | cause: The cause of the fire is unknown.
+Context | background: Learn the background of the story. | setting: The setting is a village. | circumstances: Under the circumstances, we stayed home.
+Refer | consult: Consult your teacher. | turn to: Turn to page ten. | look up: Look up the word in a dictionary.
+Dig | excavate: Workers excavate the site. | burrow: Rabbits burrow into the ground. | unearth: They unearthed old coins. | bury: Dogs bury bones. | fill: Fill the hole with soil.
+District | area: This area is quiet. | zone: It is a school zone. | region: The region is rainy.

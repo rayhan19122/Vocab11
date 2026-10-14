@@ -30,6 +30,11 @@ for (const lecture of lectureNumbers) {
 }
 
 const idPattern = /^l(0[1-9]|1[01])-w(0[1-9]|1\d|2[0-5])$/
+// A sentence "uses" a term when it contains the start of the term's longest word (so inflections like "conquered" count).
+const usesTerm = (sentence, term) => {
+  const longest = term.toLowerCase().split(/[\s-]+/).sort((a, b) => b.length - a.length)[0]
+  return sentence.toLowerCase().includes(longest.slice(0, longest.length <= 5 ? 3 : 5))
+}
 const levels = new Set(['easy', 'medium', 'hard'])
 for (const item of vocabulary) {
   const where = `${item.id} ${item.word}`
@@ -43,6 +48,13 @@ for (const item of vocabulary) {
   check(typeof item.meaning === 'string' && item.meaning.length > 3 && !/useful English word/i.test(item.meaning), `${where}: missing/placeholder meaning`)
   check(typeof item.example === 'string' && item.example.length > 0, `${where}: missing example`)
   check(levels.has(item.difficulty), `${where}: bad difficulty "${item.difficulty}"`)
+  const terms = [...item.synonyms, ...item.antonyms]
+  check(item.termExamples && Object.keys(item.termExamples).join('|') === terms.join('|'), `${where}: termExamples must cover every synonym and antonym, in order`)
+  for (const term of terms) {
+    const sentence = item.termExamples?.[term]
+    check(typeof sentence === 'string' && sentence.length >= 12 && /[.!?]$/.test(sentence), `${where}: weak example for "${term}"`)
+    check(typeof sentence === 'string' && usesTerm(sentence, term), `${where}: example for "${term}" does not use the term: ${sentence}`)
+  }
   check(typeof item.related === 'boolean', `${where}: related flag must be boolean`)
 }
 
@@ -50,6 +62,7 @@ const withAntonyms = vocabulary.filter((item) => item.antonyms.length).length
 const related = vocabulary.filter((item) => item.related).length
 const diff = (level) => vocabulary.filter((item) => item.difficulty === level).length
 console.log(`Entries: ${vocabulary.length} | lectures: ${lectureNumbers.length} | with antonyms: ${withAntonyms} | related-flagged: ${related}`)
+console.log(`Term examples: ${vocabulary.reduce((sum, item) => sum + Object.keys(item.termExamples).length, 0)}`)
 console.log(`Difficulty: easy ${diff('easy')}, medium ${diff('medium')}, hard ${diff('hard')}`)
 if (errors.length) {
   console.error(`\nFAILED (${errors.length}):\n- ${errors.join('\n- ')}`)
