@@ -47,7 +47,7 @@ export default function Dashboard() {
       </section>
 
       <section aria-label="Lecture progress">
-        <SectionHeader title="Lecture progress" eyebrow="11 lectures" className="mb-4" />
+        <SectionHeader title="Lecture progress" eyebrow={`${lectures.length} lectures`} className="mb-4" />
         <ul className="grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4">
           {stats.map((item) => (
             <li key={item.lectureId}>

@@ -37,7 +37,7 @@ export default function Progress() {
 
   return (
     <>
-      <PageHeader eyebrow="Analytics" title="Progress" description="See how far you have come across all 11 lectures." />
+      <PageHeader eyebrow="Analytics" title="Progress" description={`See how far you have come across all ${lectures.length} lectures.`} />
 
       <section aria-label="Overall" className="mb-6 grid grid-cols-2 gap-3 sm:gap-4 lg:grid-cols-5">
         <StatCard icon={Library} label="Total words" value={overall.total} />

@@ -52,10 +52,26 @@ export function sequenceWords(pool, count) {
 
 // ---------- distractor helpers ----------
 
+// Some words appear in more than one lecture (sometimes with a different sense, e.g. "Secure").
+// Another entry for the same word is never a fair wrong answer, so distractors skip it.
+const sameWord = (a, b) => a.word.toLowerCase() === b.word.toLowerCase()
+const otherWords = (word, universe) => universe.filter((item) => item.id !== word.id && !sameWord(item, word))
+
+/** Keeps the first item for each key, so two entries for one word never give two identical options. */
+const uniqueBy = (items, key) => {
+  const seen = new Set()
+  return items.filter((item) => {
+    const value = key(item).toLowerCase()
+    if (seen.has(value)) return false
+    seen.add(value)
+    return true
+  })
+}
+
 const meaningShape = (word) => (word.meaning.startsWith('to ') ? 'verb' : 'other')
 
 function distractorMeanings(word, universe) {
-  const others = universe.filter((item) => item.id !== word.id && item.meaning !== word.meaning)
+  const others = uniqueBy(otherWords(word, universe).filter((item) => item.meaning !== word.meaning), (item) => item.meaning)
   const alike = others.filter((item) => meaningShape(item) === meaningShape(word))
   const picked = sample(alike, 3)
   if (picked.length < 3) picked.push(...sample(others.filter((item) => !picked.includes(item)), 3 - picked.length))
@@ -74,7 +90,7 @@ function synonymDistractors(word, universe, count, preferred = []) {
     }
   }
   preferred.forEach(add)
-  const candidates = shuffle(universe.filter((item) => item.id !== word.id && !item.synonyms.some((label) => own.has(label.toLowerCase()))))
+  const candidates = shuffle(otherWords(word, universe).filter((item) => !item.synonyms.some((label) => own.has(label.toLowerCase()))))
   for (const item of candidates) {
     if (result.length >= count) break
     add(pickOne(item.synonyms))
@@ -92,7 +108,7 @@ function antonymDistractors(word, universe, count) {
     }
   }
   sample(word.synonyms, 2).forEach(add) // a synonym is the classic wrong answer to an antonym question
-  for (const item of shuffle(universe.filter((entry) => entry.id !== word.id && entry.antonyms.length))) {
+  for (const item of shuffle(otherWords(word, universe).filter((entry) => entry.antonyms.length))) {
     if (result.length >= count) break
     add(pickOne(item.antonyms))
   }
@@ -107,7 +123,7 @@ const wordShape = (text) => {
 }
 
 function distractorWords(word, universe, count) {
-  const others = universe.filter((item) => item.id !== word.id)
+  const others = uniqueBy(otherWords(word, universe), (item) => item.word)
   const alike = others.filter((item) => wordShape(item.word) === wordShape(word.word))
   const picked = sample(alike, count)
   if (picked.length < count) picked.push(...sample(others.filter((item) => !picked.includes(item)), count - picked.length))
@@ -233,7 +249,8 @@ export function buildQuiz({ type, pool, count, universe = vocabulary, synonymSty
     else {
       const style = type === 'mixed' ? pickOne(['single', 'multi']) : pickSynonymStyle(synonymStyle)
       if (style === 'match' && eligible.length >= 4) {
-        const group = [word, ...sample(eligible.filter((item) => item.id !== word.id && !item.synonyms.some((label) => word.synonyms.includes(label))), 3)]
+        const partners = uniqueBy(otherWords(word, eligible).filter((item) => !item.synonyms.some((label) => word.synonyms.includes(label))), (item) => item.word)
+        const group = [word, ...sample(partners, 3)]
         if (group.length === 4) questions.push(synonymMatchQuestion(id, group))
         else questions.push(synonymSingleQuestion(id, word, universe))
       } else if (style === 'multi') questions.push(synonymMultiQuestion(id, word, universe))

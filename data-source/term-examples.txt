@@ -286,3 +286,241 @@ Context | background: Learn the background of the story. | setting: The setting 
 Refer | consult: Consult your teacher. | turn to: Turn to page ten. | look up: Look up the word in a dictionary.
 Dig | excavate: Workers excavate the site. | burrow: Rabbits burrow into the ground. | unearth: They unearthed old coins. | bury: Dogs bury bones. | fill: Fill the hole with soil.
 District | area: This area is quiet. | zone: It is a school zone. | region: The region is rainy.
+# ---- Lecture 13 ----
+Constantly | continually: He continually checks his phone. | always: She is always on time. | repeatedly: He repeatedly asked the same question. | rarely: We rarely eat out. | occasionally: I occasionally visit my cousins.
+Assure | reassure: The nurse reassured the nervous patient. | promise: I promise to call you tonight. | guarantee: We guarantee delivery within two days. | alarm: The loud noise alarmed the neighbours. | unsettle: The strange phone call unsettled her.
+Cautious | careful: Be careful with that knife. | wary: The cat was wary of strangers. | prudent: It is prudent to save some money. | careless: A careless driver caused the accident. | reckless: Reckless spending left him broke.
+Definite | certain: Are you certain about the date? | clear: Please give me a clear answer. | fixed: The price is fixed. | vague: His reply was vague. | uncertain: The future is uncertain. | indefinite: The strike will last for an indefinite period.
+Distinct | different: The twins have different hobbies. | separate: Keep the two files separate. | dissimilar: Their writing styles are quite dissimilar. | similar: Their voices are similar. | identical: The two copies are identical.
+Elaborate | explain: Please explain your plan. | expand on: Can you expand on that idea? | develop: She developed the story further. | simplify: Let's simplify the instructions. | condense: He condensed the report to one page.
+Flexible | adaptable: She is adaptable to new jobs. | adjustable: The chair has an adjustable seat. | changeable: The weather is changeable in spring. | rigid: The rules are too rigid. | fixed: The meeting time is fixed.
+Guarantee | warranty: The laptop has a one-year warranty. | promise: He always keeps his promise. | assurance: She gave me her assurance that it was safe.
+Hesitate | pause: He paused before answering. | waver: She wavered between the two options. | hold back: Don't hold back your ideas. | proceed: Please proceed to the next step. | decide: We decided to stay home.
+Ignorant | unaware: He was unaware of the danger. | uninformed: Uninformed voters made a poor choice. | unfamiliar: I am unfamiliar with this software. | aware: She is aware of the problem. | informed: Stay informed about the news. | knowledgeable: Our guide was very knowledgeable.
+Involve | include: The price includes breakfast. | entail: The job entails a lot of travel. | require: This task requires patience. | exclude: The offer excludes taxes.
+Moderate | mild: We had a mild winter. | medium: Cook it over medium heat. | average: He is of average height. | extreme: The desert has extreme heat. | excessive: Excessive noise is not allowed.
+Notable | remarkable: She made remarkable progress. | significant: There was a significant change. | noteworthy: It was a noteworthy achievement. | ordinary: It was an ordinary day. | insignificant: The difference is insignificant.
+Permit | licence: You need a licence to drive. | pass: Show your pass at the gate. | authorization: We need written authorization. | ban: There is a ban on fishing here.
+Pursue | follow: She followed her dream. | seek: They seek a better life. | chase: He chased his goal for years. | abandon: Don't abandon your plans. | give up: Never give up on your dreams.
+Recognize | identify: Can you identify the man in the photo? | know: I would know her voice anywhere. | recall: I can't recall his name. | forget: I always forget her birthday. | overlook: Don't overlook the small details.
+Satisfy | please: The meal pleased the guests. | fulfil: He fulfilled his promise. | meet: The hotel will meet all our needs. | disappoint: The film disappointed us. | dissatisfy: Slow service can dissatisfy customers.
+Tolerate | bear: I can't bear the heat. | endure: They endured a long winter. | put up with: I can't put up with the noise. | resist: She resisted the change. | reject: He rejected the offer.
+Unique | one-of-a-kind: This vase is one-of-a-kind. | distinctive: She has a distinctive laugh. | special: Today is a special day. | common: It is a common name. | ordinary: He lives an ordinary life. | typical: It was a typical Monday.
+Vacant | empty: The room is empty. | unoccupied: The house has been unoccupied for years. | free: Is this seat free? | occupied: The bathroom is occupied. | full: The bus is full.
+Despite | in spite of: We played in spite of the rain. | notwithstanding: Notwithstanding the cost, they bought it. | regardless of: He went regardless of the warning. | because of: The match was cancelled because of rain.
+Convey | communicate: We communicate by email. | express: She expressed her thanks. | deliver: He delivered the message to the boss.
+Detect | discover: They discovered a leak. | notice: Did you notice the smell? | identify: Tests identified the virus. | miss: The doctor missed the early signs. | overlook: He overlooked a mistake in the report.
+Estimate | calculate: Calculate the total cost. | assess: We need to assess the damage. | gauge: It's hard to gauge his mood.
+# ---- Lecture 14 ----
+Allocate | assign: The teacher assigned a seat to each student. | distribute: They distributed food to the poor. | allot: Each team was allotted ten minutes. | withhold: The company withheld the bonus. | keep back: Keep back some money for emergencies.
+Compensate | repay: I will repay you next week. | reimburse: The company will reimburse your travel costs. | make up for: Nothing can make up for the lost time.
+Consequence | result: The result was a disaster. | outcome: Nobody knew the outcome. | repercussion: The decision had serious repercussions. | cause: What was the cause of the fire?
+Derive | originate: The custom originated in China. | stem: His problems stem from stress. | come from: This word comes from French.
+Distort | twist: He twisted my words. | warp: Heat can warp plastic. | misrepresent: The article misrepresented the facts.
+Evolve | develop: The town developed into a city. | grow: Her business continues to grow quickly. | progress: Work is progressing well. | decline: Sales declined last year. | stagnate: The economy stagnated for years.
+Generate | produce: The factory produces cars. | create: She created a new design. | make: This machine makes ice. | destroy: The fire destroyed the forest.
+Hypothesis | theory: He has a theory about the crime. | assumption: Your assumption is wrong. | proposition: The proposition needs testing. | fact: That is a proven fact. | proof: We have no proof.
+Implement | carry out: They carried out the plan. | execute: The team executed the strategy. | apply: We applied the new method. | abandon: They abandoned the project.
+Investigate | examine: The doctor examined the patient. | inquire into: The committee will inquire into the matter. | probe: Reporters probed the scandal. | ignore: He ignored the warning.
+Prefer | favour: I favour the blue one. | choose: I always choose tea. | opt for: Many students opt for science. | dislike: I dislike cold weather. | reject: She rejected the red dress.
+Manipulate | tamper with: Someone tampered with the lock. | falsify: He falsified the records. | rig: They rigged the election.
+Neglect | ignore: Don't ignore the warning signs. | disregard: He disregarded my advice. | overlook: She overlooked her own needs. | care for: She cares for her mother. | attend to: Please attend to the customer. | maintain: Maintain your car regularly.
+Offset | balance: Exercise can balance a heavy meal. | counterbalance: Low prices counterbalance the poor service. | cancel out: The two forces cancel out.
+Precise | exact: What is the exact time? | accurate: The map is accurate. | specific: Give me a specific example. | vague: The answer was vague. | imprecise: The measurement was imprecise. | approximate: The approximate cost is ten dollars.
+Reinforce | strengthen: Exercise strengthens muscles. | support: The facts support his claim. | bolster: The win bolstered their confidence. | weaken: The storm weakened the bridge. | undermine: Lies undermine trust.
+Secure@14 | obtain: She obtained a visa. | acquire: The museum acquired a rare painting. | gain: He gained a place at the university. | lose: They lost the contract.
+Specify | state: Please state your full name. | name: Name three countries in Asia. | indicate: Indicate your choice with a tick.
+Terminate | end: The meeting ended at noon. | cancel: They cancelled the order. | stop: Stop the machine now. | begin: Let's begin the lesson. | start: The race starts at nine. | continue: Please continue working.
+Valid | sound: She gave sound advice. | reasonable: That is a reasonable request. | legitimate: He had a legitimate excuse. | invalid: Your ticket is invalid. | unsound: The argument is unsound.
+Widespread | common: Colds are common in winter. | extensive: The storm caused extensive damage. | prevalent: The disease is prevalent in hot areas. | rare: Snow is rare here. | limited: The damage was limited to one room.
+Cease | stop: The rain stopped. | end: The war ended in 1945. | halt: Production halted for a week. | continue: The talks will continue tomorrow. | begin: Classes begin in May.
+Prevent | stop: A fence stops the dog from escaping. | avert: Quick action averted a disaster. | avoid: Wash your hands to avoid infection. | allow: They allowed us to enter. | permit: Please permit me to explain.
+# ---- Lecture 15 ----
+Amend | revise: She revised her essay. | change: We changed the plan. | modify: He modified the design.
+Anticipation | expectation: Expectations were high. | excitement: The children were full of excitement. | eagerness: She showed great eagerness to learn. | dread: He felt dread before the test.
+Clarify | explain: Please explain the rules. | clear up: Let's clear up the confusion. | simplify: Can you simplify this sentence? | confuse: The map confused me. | complicate: Don't complicate things.
+Controversial | disputed: The disputed border caused tension. | debatable: Whether it works is debatable. | contentious: Tax is a contentious issue. | uncontroversial: The choice was uncontroversial. | accepted: It is an accepted fact.
+Denote | indicate: A green light indicates go. | signify: A ring signifies marriage. | represent: The dove represents peace.
+Discrete | separate: These are two separate issues. | distinct: The project has three distinct stages. | individual: Each individual part is tested. | connected: The two rooms are connected. | continuous: Learning is a continuous process.
+Equate | compare: Don't compare yourself to others. | identify with: Many people identify success with money. | liken: He likened life to a journey. | distinguish: Learn to distinguish fact from opinion. | differentiate: Can you differentiate the two sounds?
+Facilitate | ease: The new road eased traffic. | assist: She assisted the doctor. | enable: The loan enabled him to buy a house. | hinder: Bad weather hindered the rescue. | obstruct: A truck obstructed the road.
+Hierarchy | ranking: The team moved up in the ranking. | chain of command: Follow the chain of command. | order: Sort the names in order.
+Incentive | motivation: Money is his main motivation. | encouragement: Her words gave me encouragement. | reward: He got a reward for his honesty. | deterrent: High fines act as a deterrent. | disincentive: High taxes are a disincentive to work.
+Innovate | invent: Edison invented many things. | modernize: The factory was modernized. | pioneer: She pioneered a new treatment. | imitate: Children imitate their parents. | copy: Don't copy your friend's homework.
+Integrate | combine: Combine the flour and eggs. | merge: The two companies merged. | incorporate: We incorporated your ideas into the plan. | separate: Separate the white clothes from the coloured ones. | divide: Divide the class into groups.
+Mediate | negotiate: They negotiated a peace deal. | arbitrate: A judge will arbitrate the case. | intervene: The teacher intervened in the fight.
+Persist | persevere: She persevered and passed the exam. | continue: Continue until you finish. | carry on: Carry on with your work. | give up: Don't give up now. | quit: He quit smoking last year.
+Regulate | control: The city controls rents. | govern: Strict rules govern the industry. | oversee: A committee oversees the budget. | deregulate: The government deregulated the airline industry.
+Synthesize | combine: She combined the two reports. | integrate: He integrated the findings into one paper. | merge: We merged the two lists. | separate: Separate the data into groups. | analyse: Analyse the results carefully.
+Tangible | real: The danger is real. | concrete: We need concrete evidence. | physical: There was no physical evidence. | intangible: Trust is an intangible asset. | abstract: Love is an abstract idea.
+Undertake | take on: She will take on extra work. | begin: They began the project in May. | embark on: We embarked on a new adventure. | abandon: They abandoned the plan. | neglect: He neglected his duties.
+Verify | confirm: Please confirm your booking. | check: Check your answers. | validate: The bank validated my card. | disprove: New tests disproved the theory. | refute: She refuted the claim.
+Adaptation | version: This is a new version of the old story. | rendering: His rendering of the poem was moving. | interpretation: It's a modern interpretation of the play.
+Shot | strike: His strike hit the post. | kick: The kick went over the bar. | attempt: Her first attempt missed.
+Deviate | depart: The bus departed from its usual route. | stray: Don't stray from the path. | diverge: Our opinions diverge on this. | conform: Students must conform to the dress code. | follow: Follow the instructions.
+Ahead | in advance: Book your tickets in advance. | beforehand: Tell me beforehand if you are coming. | early: Arrive early for the exam. | behind: We are behind schedule. | late: He was late again.
+Illustrate | demonstrate: The teacher demonstrated the experiment. | show: Show me how it works. | exemplify: This case exemplifies the problem.
+Proportion | share: Everyone got a fair share. | percentage: A high percentage of students passed. | fraction: Only a fraction of the money was spent.
+# ---- Lecture 16 ----
+Assert | declare: He declared his innocence. | state: She stated her view clearly. | insist: He insisted that he was right. | deny: She denied the rumour. | retract: He retracted his statement.
+Attribute | credit: She credits her coach for the win. | ascribe: He ascribed his failure to bad luck. | put down to: I put his mood down to tiredness.
+Bulk | majority: The majority of people agreed. | most: Most of the food was eaten. | main part: The main part of the job is done. | minority: Only a minority voted no. | fraction: A small fraction stayed.
+Coherent | logical: Give a logical explanation. | clear: Her writing is clear. | consistent: His story was consistent. | incoherent: He gave an incoherent reply. | confused: Her answer was confused.
+Compile | gather: We gathered all the facts. | collect: She collects stamps. | assemble: He assembled a list of names. | scatter: The papers were scattered everywhere. | disperse: The crowd dispersed.
+Conform | comply: All shops must comply with the law. | obey: Obey the traffic rules. | follow: Follow the dress code. | rebel: Teenagers often rebel. | deviate: Don't deviate from the rules.
+Converse | talk: We talked for hours. | chat: Let's chat over coffee. | speak: May I speak with you?
+Devote | dedicate: She dedicated her life to teaching. | commit: He committed himself to the project. | give: Give your full attention. | neglect: He neglected his studies.
+Displace | uproot: The war uprooted many families. | dislodge: The storm dislodged roof tiles. | evict: The landlord evicted the tenants. | settle: They settled in a new town. | house: The shelter houses fifty families.
+Enforce | impose: The school imposed a strict rule. | implement: The city will implement the new law. | apply: The rule applies to everyone. | ignore: Some drivers ignore the speed limit. | waive: The bank waived the fee.
+Exhibit | display: The shop displays new shoes. | show: The museum shows old maps. | present: She presented her artwork. | hide: He hid the letter. | conceal: She concealed her feelings.
+Fluctuate | vary: Prices vary by season. | change: The weather changes quickly. | rise and fall: Sales rise and fall each month. | stabilize: Prices have stabilized.
+Implicit | implied: There was an implied threat. | unspoken: They had an unspoken agreement. | tacit: He gave his tacit approval. | explicit: The rules are explicit. | stated: The stated price includes tax.
+Intact | undamaged: The parcel arrived undamaged. | whole: The vase is still whole. | unbroken: The seal was unbroken. | damaged: The car was damaged. | broken: The window is broken.
+Minimize | reduce: Reduce your sugar intake. | decrease: Crime has decreased. | lessen: The medicine lessened the pain. | maximize: We want to maximize profit. | increase: Prices increased again.
+Ensure | make sure: Make sure the door is locked. | guarantee: We guarantee quality. | confirm: Please confirm that the gas is off.
+Finding | discovery: It was an important discovery. | result: The results were clear. | conclusion: What is your conclusion?
+Reside | live: They live in Dhaka. | dwell: Few people dwell in the desert. | stay: She stayed with her aunt.
+Sophisticated | advanced: This is an advanced phone. | complex: The system is very complex. | refined: She has refined taste. | simple: It's a simple tool. | basic: The hotel is basic. | crude: They built a crude shelter.
+Violate | break: Never break the law. | breach: The company breached the contract. | infringe: The song infringes copyright. | obey: Always obey the rules. | respect: Respect the speed limit.
+Aggregate | total: The total cost was high. | combined: Their combined income is large. | collective: It was a collective effort. | individual: Each individual score counts. | separate: Keep separate accounts.
+Assemble | build: They built a shed. | construct: Workers constructed a bridge. | put together: Help me put together this desk. | dismantle: He dismantled the old bike. | disassemble: Disassemble the machine carefully.
+Complement | enhance: Good lighting enhances the room. | suit: That colour suits you. | go with: This sauce goes with fish. | clash: Those colours clash.
+Discriminate | be biased: Judges must not be biased. | be prejudiced: Some people are prejudiced against strangers. | treat unfairly: The firm treated women unfairly.
+Exceed | surpass: Her score surpassed mine. | go beyond: The cost went beyond our budget. | outdo: He outdid his rivals. | fall short: The results fell short of our hopes.
+# ---- Lecture 17 ----
+Adjacent | next to: The bank is next to the school. | neighbouring: They live in a neighbouring village. | adjoining: We booked adjoining rooms. | distant: She moved to a distant city. | remote: They live in a remote area.
+Appreciate | value: I value your friendship. | be grateful for: I am grateful for your help. | welcome: We welcome your ideas. | take for granted: Don't take your parents for granted. | disregard: He disregarded their efforts.
+Bias | prejudice: Prejudice causes conflict. | partiality: The referee showed partiality. | favouritism: There was favouritism in the office. | fairness: Fairness is important in sport. | impartiality: Judges must show impartiality.
+Coincide | overlap: Our holidays overlap this year. | happen together: The two events happened together. | synchronize: Let's synchronize our watches. | differ: Our timetables differ.
+Depress | sadden: The news saddened us. | discourage: The failure discouraged him. | dishearten: Low marks can dishearten students. | cheer: The music cheered her up. | uplift: The story uplifted everyone.
+Exploit | take advantage of: Don't take advantage of his kindness. | abuse: He abused his power. | misuse: She misused company funds.
+Inevitable | unavoidable: The delay was unavoidable. | certain: Defeat seemed certain. | inescapable: Death is inescapable. | avoidable: The accident was avoidable. | uncertain: The result is uncertain.
+Inhibit | restrain: He restrained his anger. | hinder: Noise hinders learning. | suppress: She suppressed a laugh. | encourage: Teachers encourage creativity. | promote: Exercise promotes health.
+Invoke | evoke: The photo evoked old memories. | arouse: The film aroused strong feelings. | call up: The smell called up my childhood.
+Mutually | jointly: They jointly own the house. | reciprocally: The two nations reciprocally cut taxes. | equally: The prize was shared equally.
+Plant | sow: Farmers sow wheat in winter. | grow: We grow tomatoes. | cultivate: They cultivate rice. | uproot: The storm uprooted trees. | harvest: They harvest corn in autumn.
+Overlap | coincide: Their visits coincided. | intersect: The two roads intersect here. | converge: The paths converge near the lake.
+Precede | come before: Spring comes before summer. | go before: A short speech will go before dinner. | lead up to: The events leading up to the war were complex. | follow: Lunch follows the meeting. | succeed: Night succeeds day.
+Qualitative | descriptive: This is a descriptive study. | subjective: Taste is subjective. | interpretive: She used an interpretive approach. | quantitative: We need quantitative data. | numerical: Give a numerical answer.
+Refine | improve: Practice improves your skills. | polish: She polished her speech. | perfect: He perfected his recipe. | worsen: The weather worsened.
+Restrain | hold back: The police tried to hold back the crowd. | control: Control your temper. | stop: Stop him from leaving. | release: They released the prisoner. | free: She freed the bird.
+Rigid | strict: The school has strict rules. | inflexible: His views are inflexible. | stiff: The leather was stiff. | flexible: Yoga makes you flexible. | lenient: The judge was lenient.
+Subsidy | grant: She received a research grant. | allowance: Students get a travel allowance. | financial aid: Poor families need financial aid. | tax: The tax on fuel went up.
+Termination | ending: The film had a sad ending. | dismissal: He appealed against his dismissal. | cancellation: The cancellation of the flight upset us. | beginning: This is just the beginning. | commencement: The commencement of work was delayed.
+Trigger | cause: Smoking can cause cancer. | spark: The comment sparked an argument. | set off: The smoke set off the alarm. | prevent: Wash your hands to prevent illness. | stop: Stop the spread of the virus.
+Viable | feasible: The plan is feasible. | workable: We found a workable solution. | practical: That is a practical idea. | impractical: High heels are impractical for hiking. | unworkable: The scheme proved unworkable.
+Accommodate | hold: The stadium holds 50,000 fans. | house: The building houses ten offices. | fit: The car can fit five people.
+Confine | restrict: Restrict your answer to 100 words. | limit: Limit screen time for kids. | enclose: A fence encloses the garden. | release: They released the birds. | free: The court freed him.
+Detectable | noticeable: There was a noticeable change. | perceptible: The sound was barely perceptible. | discernible: There was no discernible pattern. | undetectable: The poison is undetectable. | invisible: The crack was invisible.
+Concept | idea: That's a good idea. | notion: She has a strange notion of time. | theory: His theory is interesting.
+# ---- Lecture 19 ----
+Explore | tour: We toured the old town. | travel around: They travelled around Europe. | discover: She discovered a hidden beach.
+Influence | effect: The drug had no effect. | impact: Social media has a big impact on teens. | sway: He has a lot of sway with the boss.
+Primarily | mainly: The class is mainly for adults. | chiefly: He is chiefly known as a singer. | mostly: The team is mostly young. | secondarily: Price matters only secondarily. | partly: It was partly my fault.
+Evoke | bring to mind: The smell brings to mind my school days. | recall: The song recalls my youth. | stir: The film stirred deep emotions. | suppress: She suppressed her anger.
+Rare | uncommon: Snow is uncommon here. | unusual: It's unusual for him to be late. | scarce: Water is scarce in the desert. | common: Rain is common in July. | frequent: He is a frequent visitor.
+Afford | pay for: I can't pay for the trip. | manage: Can you manage the cost? | spare: Can you spare ten dollars?
+Inherent | built-in: The phone has a built-in camera. | innate: She has an innate talent. | natural: Curiosity is natural in children. | acquired: Reading is an acquired skill. | external: The problem had an external cause.
+Integrity | honesty: Honesty is the best policy. | honour: He is a man of honour. | principle: She acted on principle. | dishonesty: His dishonesty cost him the job. | corruption: Corruption harms the economy.
+Manipulation | falsification: The falsification of records is a crime. | tampering: The seal shows signs of tampering. | distortion: The report was a distortion of the truth.
+Philosophy | thought: Greek thought shaped the West. | ethics: She teaches ethics. | reasoning: His reasoning was sound.
+Prohibit | ban: The city banned plastic bags. | forbid: Parents forbid late nights. | outlaw: The law outlawed slavery. | allow: Dogs are allowed in the park. | permit: Smoking is not permitted here.
+Prospect | possibility: There is a possibility of rain. | chance: She has a good chance of winning. | likelihood: The likelihood of success is high.
+Reserve | book: I booked a hotel room. | hold: Can you hold this seat for me? | set aside: Set aside some time for rest. | cancel: I cancelled my booking.
+Affect | influence: Friends influence our choices. | change: Moving changed his life. | impact: The strike impacted travel.
+Scenario | situation: It's a difficult situation. | case: In that case, we'll stay. | possibility: Consider every possibility.
+Supplement | add to: She added to her income by tutoring. | boost: Vitamins boost your health. | complement: The sauce complements the fish.
+Suspend | postpone: The match was postponed. | halt: Work halted for a week. | interrupt: The rain interrupted the game. | resume: Classes resume on Monday. | continue: The match continued after the rain.
+Violation | breach: It was a breach of contract. | offence: Speeding is a serious offence. | infringement: It is an infringement of copyright. | compliance: Compliance with the rules is required. | obedience: The army demands obedience.
+Advocate | supporter: He is a supporter of free speech. | champion: She is a champion of animal rights. | defender: He is a defender of human rights. | opponent: He is an opponent of the plan. | critic: She is a critic of the policy.
+Alleviate | relieve: The pills relieved his headache. | ease: Rest will ease the pain. | reduce: Reduce the stress in your life. | worsen: Stress can worsen the pain. | aggravate: Scratching aggravates the rash.
+Ambiguity | vagueness: The vagueness of the law caused problems. | uncertainty: There is uncertainty about the date. | obscurity: The poem's obscurity puzzled readers. | clarity: Write with clarity. | precision: The task needs precision.
+Controversy | dispute: There is a dispute over the land. | debate: The debate went on for hours. | argument: They had an argument. | agreement: They reached an agreement. | consensus: There is a consensus on the plan.
+# ---- Lecture 20 ----
+Analogous | similar: Our ideas are similar. | comparable: The two cars are comparable in price. | alike: The sisters look alike. | different: We have different tastes. | dissimilar: The two cases are dissimilar.
+Impact | effect: The new law had a clear effect. | influence: Parents have a strong influence. | consequence: Pollution has serious consequences.
+Articulate | express: Express your feelings. | voice: She voiced her concerns. | communicate: He communicates well. | mumble: Don't mumble when you speak.
+Ascertain | determine: Police determined the cause. | establish: We established the facts. | find out: I'll find out the time.
+Catastrophe | disaster: The flood was a disaster. | calamity: The famine was a calamity. | tragedy: The crash was a tragedy. | blessing: The rain was a blessing. | success: The event was a success.
+Constrain | limit: Limit your spending. | restrict: The rules restrict our freedom. | restrain: She restrained her anger. | free: The new law frees small firms.
+Demolish | destroy: The bomb destroyed the bridge. | knock down: They knocked down the wall. | tear down: Workers will tear down the old shed. | build: They built a new school. | construct: They will construct a bridge.
+Emulate | imitate: Kids imitate their heroes. | copy: Don't copy others. | follow: He follows his father's example.
+Analogy | comparison: The comparison helped me understand. | parallel: There is a parallel between the two stories. | likeness: There is a likeness between them.
+Fragment | piece: A piece of glass cut my foot. | bit: There are bits of paper everywhere. | shard: A shard of pottery was found. | whole: Eat the whole apple.
+Intricate | complex: The puzzle is complex. | detailed: She drew a detailed map. | elaborate: The dress had an elaborate pattern. | simple: It's a simple design. | plain: She wore a plain dress.
+Mobilize | organize: They organized a protest. | gather: She gathered a team. | rally: The leader rallied his supporters. | disband: The group disbanded. | demobilize: The army was demobilized after the war.
+Oversee | supervise: She supervises ten workers. | manage: He manages the shop. | monitor: Nurses monitor the patients.
+Perceive | notice: I noticed a strange smell. | sense: Dogs can sense fear. | observe: She observed his reaction. | ignore: He ignored the signs. | overlook: Don't overlook the details.
+Pertinent | relevant: Ask relevant questions. | applicable: The rule is not applicable here. | related: These issues are related. | irrelevant: That point is irrelevant. | unrelated: The two crimes are unrelated.
+Reconcile | make peace: The brothers made peace. | settle: They settled their dispute. | resolve: We resolved the conflict. | alienate: His rudeness alienated his friends. | divide: The issue divided the family.
+Respective | own: Everyone has their own room. | individual: Each individual student has a locker. | separate: They went their separate ways. | common: We share a common goal. | shared: It's a shared kitchen.
+Surpass | exceed: The profits exceeded expectations. | outdo: She outdid her rivals. | beat: He beat the record. | fall behind: He fell behind his classmates.
+Transmit | send: Send me the file. | broadcast: The match was broadcast live. | relay: The satellite relays signals. | receive: Did you receive my email?
+Vulnerable | exposed: The camp was exposed to the wind. | weak: The wall is weak. | defenceless: The village was defenceless. | protected: The area is protected. | resistant: The watch is water-resistant.
+Ambiguous | unclear: The rules are unclear. | vague: He gave a vague answer. | equivocal: Her reply was equivocal. | clear: The message is clear. | unambiguous: The order was unambiguous.
+Autonomous | independent: She is an independent woman. | self-governing: The island is self-governing. | sovereign: It is a sovereign nation. | dependent: The child is dependent on her parents. | subordinate: The branch is subordinate to the head office.
+Concise | brief: Keep your speech brief. | short: Write a short summary. | succinct: Her answer was succinct. | wordy: The essay is too wordy. | lengthy: He gave a lengthy speech.
+Consecutive | successive: It rained for five successive days. | continuous: There was continuous noise. | straight: They won three games straight. | intermittent: The rain was intermittent. | irregular: He works irregular hours.
+Federal | national: It's a national holiday. | central: The central government sets taxes. | governmental: It is a governmental agency. | local: Local elections are next month.
+# ---- Lecture 21 ----
+Abandon | leave: He had to leave his family. | desert: The soldiers deserted their posts. | give up: She had to give up her job. | keep: Keep the receipt. | retain: The firm retained its staff.
+Assertive | confident: She is a confident speaker. | forceful: He made a forceful argument. | self-assured: She seemed calm and self-assured. | timid: The timid boy hid behind his mother. | submissive: The dog was submissive.
+Tend | be inclined: I am inclined to agree. | be likely: It is likely to rain. | be prone: He is prone to colds.
+Deduce | conclude: The jury concluded he was guilty. | infer: I infer from your silence that you agree. | work out: Can you work out the answer?
+Deteriorate | worsen: Her health worsened. | decline: The quality declined. | degenerate: The debate degenerated into a fight. | improve: His grades improved. | recover: She recovered quickly.
+Dominate | overshadow: The tower overshadows the town. | tower over: The mountain towers over the village. | control: They control the market.
+Endorse | support: I support your plan. | approve: The board approved the budget. | back: Many voters back the new law. | oppose: They oppose the plan. | reject: She rejected the proposal.
+Potential | promise: The young player shows promise. | ability: She has the ability to lead. | capability: The phone has the capability to record video.
+Incur | suffer: The firm suffered heavy losses. | face: You will face a fine. | run up: Don't run up huge debts. | avoid: Avoid extra charges.
+Irrespective | regardless: Everyone is welcome, regardless of age. | despite: Despite the cost, we went. | notwithstanding: The plan went ahead, notwithstanding the objections.
+Liable | responsible: You are responsible for the damage. | accountable: Leaders must be accountable. | answerable: He is answerable to the board. | exempt: Students are exempt from the fee. | immune: Diplomats are immune from arrest.
+Vigorous | energetic: She is an energetic dancer. | intense: It was an intense workout. | strenuous: Avoid strenuous exercise. | weak: His voice was weak. | feeble: The old dog was feeble. | gentle: Take a gentle walk.
+Parameter | limit: There is a speed limit. | guideline: Follow the guidelines. | criterion: Price is the main criterion.
+Predominant | main: The main language is Bengali. | dominant: Blue is the dominant colour. | prevailing: The prevailing wind is from the west. | minor: It was a minor issue. | secondary: Cost is a secondary concern.
+Restore | renovate: They renovated the old house. | repair: He repaired the roof. | rebuild: They rebuilt the bridge. | damage: The storm damaged the roof. | ruin: The rain ruined the painting.
+Coast | shore: We walked along the shore. | seaside: We spent a week at the seaside. | beach: The kids played on the beach. | inland: They moved inland.
+Sovereign | independent: India became independent in 1947. | autonomous: The region is autonomous. | self-governing: It is a self-governing territory. | dependent: The island is a dependent territory. | colonial: It was a colonial state.
+Successor | heir: He is the heir to the throne. | replacement: We need a replacement for her. | next in line: She is next in line for the job. | predecessor: Her predecessor retired.
+Validate | confirm: Tests confirmed the result. | verify: Please verify your email. | certify: The engineer certified the building. | invalidate: The error invalidated the test. | disprove: The data disproved the theory.
+Utilize | use: Use this pen. | employ: They employed new methods. | make use of: Make use of your free time. | waste: Don't waste food.
+Analysis | examination: The examination of the facts took weeks. | study: The study took two years. | evaluation: The evaluation was positive.
+Commercial | advertisement: I saw the advertisement in the paper. | advert: The advert was funny. | ad: The ad ran during the match.
+Stereotype | label: Don't label people. | typecast: He was typecast as a villain. | pigeonhole: Don't pigeonhole her as shy.
+# ---- Lecture 22 ----
+Acknowledge | admit: He admitted his mistake. | recognize: We recognize your hard work. | accept: She accepted the blame. | deny: He denied the charge. | ignore: She ignored my message.
+Mitigate | reduce: Trees reduce noise. | lessen: Seat belts lessen injuries. | alleviate: The drug alleviates pain. | aggravate: Stress can aggravate the illness. | intensify: The storm intensified.
+Arbitrary | random: The winners were chosen at random. | unreasonable: The rule seems unreasonable. | capricious: The boss is capricious. | reasoned: She gave a reasoned reply. | rational: Make a rational choice.
+Complementary | compatible: The two systems are compatible. | matching: She wore matching shoes. | harmonious: The colours are harmonious. | incompatible: Their goals were incompatible. | conflicting: We got conflicting reports.
+Apprehensive | anxious: She felt anxious. | nervous: I'm nervous about the interview. | uneasy: He felt uneasy in the dark. | calm: Try to stay calm before an exam. | confident: She felt confident.
+Inept | incompetent: The incompetent manager lost the client. | clumsy: He is clumsy with tools. | unskilled: He took an unskilled job. | skilful: She is a skilful driver. | competent: He is a competent nurse.
+Execute | carry out: They carried out the order. | perform: She performed the task well. | accomplish: We accomplished our goal. | abandon: They abandoned the mission.
+Hierarchical | ranked: The players are ranked by skill. | layered: The system is layered. | tiered: It has a tiered pricing system. | flat: The company has a flat structure. | egalitarian: They want an egalitarian society.
+Hypothetical | imaginary: The story is set in an imaginary land. | theoretical: It is only a theoretical risk. | supposed: The supposed cure did not work. | real: This is a real problem. | actual: What was the actual cost?
+Incentivize | motivate: Good pay motivates staff. | encourage: Parents encourage their kids. | reward: The company rewards hard work. | discourage: High fees discourage students. | deter: Cameras deter thieves.
+Impeccable | flawless: Her English is flawless. | perfect: He has perfect manners. | faultless: The performance was faultless. | flawed: The plan was flawed. | imperfect: The world is imperfect.
+Legitimate | valid: She had a valid excuse. | lawful: It is a lawful protest. | genuine: It was a genuine mistake. | illegal: Selling drugs is illegal. | invalid: The contract was invalid.
+Pinnacle | peak: She is at the peak of her career. | summit: They reached the summit. | height: It was the height of summer. | bottom: He started at the bottom. | low point: It was the low point of his life.
+Paradigm | model: This is a model for other schools. | pattern: Sales follow a pattern. | framework: We need a new framework.
+Deceptively | misleadingly: The ad was misleadingly worded. | seemingly: The seemingly easy test was hard. | apparently: The apparently calm lake was dangerous.
+Presume | assume: I assume you are tired. | suppose: I suppose she is right. | believe: I believe he is honest. | doubt: I doubt he will come.
+Intrinsic | inherent: Risk is inherent in sport. | innate: She has an innate sense of style. | natural: She is a natural leader. | extrinsic: Money is an extrinsic reward. | external: External factors affected sales.
+Refute | disprove: He disproved the theory. | rebut: She rebutted the claims. | deny: He denied the rumour. | prove: Can you prove it? | confirm: The test confirmed it.
+Sanction | penalty: The penalty for speeding is a fine. | punishment: The punishment was severe. | embargo: There is an embargo on oil. | reward: She got a reward. | incentive: Tax cuts are an incentive.
+Discreetly | quietly: He quietly closed the door. | secretly: They met secretly. | tactfully: She tactfully changed the subject. | openly: They spoke openly. | conspicuously: He was conspicuously absent.
+Unify | unite: The war united the nation. | join: Join the two pieces. | merge: The two banks merged. | divide: The issue divided the town. | separate: Separate the eggs.
+Warped | bent: The nail is bent. | twisted: The metal was twisted. | distorted: The image is distorted. | straight: Draw a straight line. | flat: The table is flat.
+Inquisitive | curious: Cats are curious animals. | questioning: She has a questioning mind. | inquiring: He has an inquiring mind. | uninterested: He seemed uninterested. | indifferent: She was indifferent to the news.
+Incoherent | confused: His story was confused. | unclear: Her message was unclear. | jumbled: His thoughts were jumbled. | coherent: She gave a coherent answer. | clear: His voice was clear.
+Empirical | experimental: The results are experimental. | observed: The observed data matched. | practical: She has practical experience. | theoretical: The idea is purely theoretical. | hypothetical: It is a hypothetical case.
+# ---- Lecture 23 ----
+Abundant | plentiful: Fruit is plentiful in summer. | ample: There is ample space. | rich: The soil is rich in minerals. | scarce: Food was scarce. | sparse: The grass was sparse.
+Apparent | obvious: It was obvious he was lying. | clear: It is clear that she is happy. | evident: Her joy was evident. | hidden: The danger was hidden. | unclear: The reason is unclear.
+Bolster | strengthen: The news strengthened his resolve. | boost: The win boosted morale. | reinforce: More facts reinforce the case. | weaken: The scandal weakened his position. | undermine: Gossip can undermine trust.
+Diminish | decrease: The pain decreased. | reduce: Reduce your speed. | shrink: Wool can shrink in the wash. | increase: Prices increased. | grow: Small towns grow fast.
+Disclose | reveal: She revealed the secret. | announce: They announced the winner. | release: The police released the report. | conceal: He concealed the truth. | hide: She hid the money.
+Emerge | appear: A rainbow appeared. | arise: Problems may arise during the trip. | surface: The truth surfaced later. | disappear: The sun disappeared behind clouds. | vanish: The magician vanished.
+Exploit@23 | use: We use solar power. | utilize: They utilize every resource. | harness: Dams harness river power. | waste: Don't waste water.
+Imply | suggest: Are you suggesting I lied? | hint: She hinted that she was leaving. | indicate: His smile indicated approval. | state: State your reason clearly. | declare: He declared his love.
+Negate | cancel out: The losses cancel out the gains. | nullify: The ruling nullified the contract. | undo: One bad day can undo your progress. | confirm: The data confirmed it. | validate: The test validated the claim.
+Overwhelm | overpower: Grief overpowered him. | overcome: She was overcome with joy. | swamp: We were swamped with work.
+Substantiate | prove: Can you prove your claim? | support: The data support the theory. | confirm: The test confirmed the diagnosis. | disprove: The test disproved the idea. | refute: She refuted his argument.

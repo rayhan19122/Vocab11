@@ -285,3 +285,241 @@ Context | the situation or words around something that give it meaning | backgro
 Refer | to look at something for information | consult;turn to;look up | | e |
 Dig | to break up and move earth | excavate;burrow;unearth | bury;fill | e |
 District | an area of a town or region | area;zone;region | | m |
+# ---- Lecture 13 ----
+Constantly | all the time; without stopping | continually;always;repeatedly | rarely;occasionally | m |
+Assure | to tell someone confidently that something is true so they stop worrying | reassure;promise;guarantee | alarm;unsettle | m |
+Cautious | careful to avoid danger or mistakes | careful;wary;prudent | careless;reckless | e |
+Definite | clear and certain; not likely to change | certain;clear;fixed | vague;uncertain;indefinite | m |
+Distinct | clearly different or separate | different;separate;dissimilar | similar;identical | m |
+Elaborate | to explain something in more detail | explain;expand on;develop | simplify;condense | h |
+Flexible | able to change easily | adaptable;adjustable;changeable | rigid;fixed | e |
+Guarantee | a written promise that a product will be repaired or replaced if it fails | warranty;promise;assurance | | m |
+Hesitate | to pause before doing or saying something because you are unsure | pause;waver;hold back | proceed;decide | m |
+Ignorant | not knowing about something | unaware;uninformed;unfamiliar | aware;informed;knowledgeable | m |
+Involve | to include something as a necessary part | include;entail;require | exclude | m |
+Moderate | neither too much nor too little; average | mild;medium;average | extreme;excessive | m |
+Notable | important or interesting enough to be noticed | remarkable;significant;noteworthy | ordinary;insignificant | m |
+Permit | an official document that allows you to do something | licence;pass;authorization | ban | m |
+Pursue | to follow or try to achieve something over time | follow;seek;chase | abandon;give up | m |
+Recognize | to know someone or something because you have seen it before | identify;know;recall | forget;overlook | e |
+Satisfy | to give someone what they need or want | please;fulfil;meet | disappoint;dissatisfy | m |
+Tolerate | to accept something unpleasant without complaining | bear;endure;put up with | resist;reject | m |
+Unique | being the only one of its kind | one-of-a-kind;distinctive;special | common;ordinary;typical | e |
+Vacant | empty; not being used | empty;unoccupied;free | occupied;full | e |
+Despite | without being stopped by something | in spite of;notwithstanding;regardless of | because of | m |
+Convey | to communicate an idea or feeling | communicate;express;deliver | | m |
+Detect | to notice or discover something that is hard to see | discover;notice;identify | miss;overlook | m |
+Estimate | to roughly calculate the size, cost or amount of something | calculate;assess;gauge | | m |
+# ---- Lecture 14 ----
+Allocate | to give out a share of something for a purpose | assign;distribute;allot | withhold;keep back | h |
+Compensate | to pay someone for loss or damage | repay;reimburse;make up for | | h |
+Consequence | a result of an action, usually a bad one | result;outcome;repercussion | cause | m |
+Derive | to come from or be developed from something | originate;stem;come from | | h |
+Distort | to change the shape or meaning of something so it is no longer true or clear | twist;warp;misrepresent | | h |
+Evolve | to develop gradually over time | develop;grow;progress | decline;stagnate | m |
+Generate | to produce or create something | produce;create;make | destroy | m |
+Hypothesis | an idea that has not yet been proved | theory;assumption;proposition | fact;proof | h |
+Implement | to put a plan or decision into action | carry out;execute;apply | abandon | m |
+Investigate | to examine something carefully to find the truth | examine;inquire into;probe | ignore | m |
+Prefer | to like one thing more than another | favour;choose;opt for | dislike;reject | e |
+Manipulate | to control or change something unfairly or dishonestly | tamper with;falsify;rig | | h |
+Neglect | to fail to take care of something | ignore;disregard;overlook | care for;attend to;maintain | m |
+Offset | to balance one effect with an opposite one | balance;counterbalance;cancel out | | h |
+Precise | exact and accurate | exact;accurate;specific | vague;imprecise;approximate | m |
+Reinforce | to make something stronger or more effective | strengthen;support;bolster | weaken;undermine | m |
+Secure@14 | to succeed in getting something, often with effort | obtain;acquire;gain | lose | m |
+Specify | to state something clearly and exactly | state;name;indicate | | m |
+Terminate | to end something | end;cancel;stop | begin;start;continue | m |
+Valid | logically correct or legally acceptable | sound;reasonable;legitimate | invalid;unsound | m |
+Widespread | found or happening in many places | common;extensive;prevalent | rare;limited | m |
+Cease | to stop | stop;end;halt | continue;begin | m |
+Prevent | to stop something from happening | stop;avert;avoid | allow;permit | e |
+# ---- Lecture 15 ----
+Amend | to make small changes to correct or improve something | revise;change;modify | | m |
+Anticipation | the feeling of excitement about something that will happen | expectation;excitement;eagerness | dread | h |
+Clarify | to make something clearer or easier to understand | explain;clear up;simplify | confuse;complicate | m |
+Controversial | causing a lot of public disagreement | disputed;debatable;contentious | uncontroversial;accepted | h |
+Denote | to be a sign of something; to mean | indicate;signify;represent | | h |
+Discrete | separate and distinct | separate;distinct;individual | connected;continuous | h |
+Equate | to consider one thing as equal to another | compare;identify with;liken | distinguish;differentiate | h |
+Facilitate | to make an action or process easier | ease;assist;enable | hinder;obstruct | h |
+Hierarchy | a system where people or things are ranked one above another | ranking;chain of command;order | | h |
+Incentive | something that encourages a person to do something | motivation;encouragement;reward | deterrent;disincentive | m |
+Innovate | to introduce new ideas or methods | invent;modernize;pioneer | imitate;copy | m |
+Integrate | to combine things so they work together | combine;merge;incorporate | separate;divide | m |
+Mediate | to help two sides reach an agreement | negotiate;arbitrate;intervene | | h |
+Persist | to keep doing something despite difficulty | persevere;continue;carry on | give up;quit | m |
+Regulate | to control something by rules | control;govern;oversee | deregulate | m |
+Synthesize | to combine different ideas or information into one whole | combine;integrate;merge | separate;analyse | h |
+Tangible | real and able to be seen or felt | real;concrete;physical | intangible;abstract | h |
+Undertake | to begin or take responsibility for a task | take on;begin;embark on | abandon;neglect | m |
+Verify | to check that something is true or correct | confirm;check;validate | disprove;refute | m |
+Adaptation | a film, book or play made from another work | version;rendering;interpretation | | h |
+Shot | an attempt to hit or score in a game | strike;kick;attempt | | e |
+Deviate | to move away from what is normal or planned | depart;stray;diverge | conform;follow | h |
+Ahead | in advance; for the future | in advance;beforehand;early | behind;late | e |
+Illustrate | to explain something by using examples or pictures | demonstrate;show;exemplify | | m |
+Proportion | a part of a whole | share;percentage;fraction | | m |
+# ---- Lecture 16 ----
+Assert | to state something firmly and confidently | declare;state;insist | deny;retract | m |
+Attribute | to say that something is caused by something | credit;ascribe;put down to | | h |
+Bulk | the main or largest part of something | majority;most;main part | minority;fraction | m |
+Coherent | logical and easy to understand | logical;clear;consistent | incoherent;confused | h |
+Compile | to collect information and put it together | gather;collect;assemble | scatter;disperse | m |
+Conform | to behave according to rules or standards | comply;obey;follow | rebel;deviate | m |
+Converse | to have a conversation | talk;chat;speak | | m |
+Devote | to give your time or energy to something | dedicate;commit;give | neglect | m |
+Displace | to force people or things out of their usual place | uproot;dislodge;evict | settle;house | h |
+Enforce | to make sure a law or rule is obeyed | impose;implement;apply | ignore;waive | m |
+Exhibit | to show something publicly | display;show;present | hide;conceal | m |
+Fluctuate | to change up and down often | vary;change;rise and fall | stabilize | h |
+Implicit | suggested but not directly stated | implied;unspoken;tacit | explicit;stated | h |
+Intact | not damaged or broken | undamaged;whole;unbroken | damaged;broken | m |
+Minimize | to reduce something to the smallest amount | reduce;decrease;lessen | maximize;increase | m |
+Ensure | to make certain that something happens | make sure;guarantee;confirm | | m |
+Finding | something discovered after research | discovery;result;conclusion | | m |
+Reside | to live in a particular place | live;dwell;stay | | m |
+Sophisticated | complex and advanced | advanced;complex;refined | simple;basic;crude | h |
+Violate | to break a rule, law or agreement | break;breach;infringe | obey;respect | m |
+Aggregate | formed by adding many parts together; total | total;combined;collective | individual;separate | h |
+Assemble | to put the parts of something together | build;construct;put together | dismantle;disassemble | m |
+Complement | to go well with something and make it better | enhance;suit;go with | clash | h |
+Discriminate | to treat someone unfairly because of their race, age, sex, etc. | be biased;be prejudiced;treat unfairly | | h |
+Exceed | to be more than something | surpass;go beyond;outdo | fall short | m |
+# ---- Lecture 17 ----
+Adjacent | next to or near something | next to;neighbouring;adjoining | distant;remote | h |
+Appreciate | to be grateful for something | value;be grateful for;welcome | take for granted;disregard | m |
+Bias | unfair support for or against someone | prejudice;partiality;favouritism | fairness;impartiality | m |
+Coincide | to happen at the same time | overlap;happen together;synchronize | differ | h |
+Depress | to make someone feel sad | sadden;discourage;dishearten | cheer;uplift | m |
+Exploit | to treat someone unfairly for your own benefit | take advantage of;abuse;misuse | | h |
+Inevitable | certain to happen | unavoidable;certain;inescapable | avoidable;uncertain | h |
+Inhibit | to prevent or slow down something | restrain;hinder;suppress | encourage;promote | h |
+Invoke | to bring out a feeling or idea in people | evoke;arouse;call up | | h |
+Mutually | in a way that is shared by two or more people | jointly;reciprocally;equally | | h |
+Plant | to put seeds or plants in the ground to grow | sow;grow;cultivate | uproot;harvest | e |
+Overlap | to cover part of the same area or time | coincide;intersect;converge | | m |
+Precede | to come before something | come before;go before;lead up to | follow;succeed | h |
+Qualitative | relating to quality rather than amount | descriptive;subjective;interpretive | quantitative;numerical | h |
+Refine | to improve something by making small changes | improve;polish;perfect | worsen | m |
+Restrain | to stop someone from doing something | hold back;control;stop | release;free | m |
+Rigid | not able to bend or change; strict | strict;inflexible;stiff | flexible;lenient | m |
+Subsidy | money given by the government to help pay for something | grant;allowance;financial aid | tax | h |
+Termination | the act of ending something | ending;dismissal;cancellation | beginning;commencement | h |
+Trigger | to cause something to start or happen | cause;spark;set off | prevent;stop | m |
+Viable | able to work successfully | feasible;workable;practical | impractical;unworkable | h |
+Accommodate | to provide space or room for people | hold;house;fit | | h |
+Confine | to keep someone or something within a limited space | restrict;limit;enclose | release;free | m |
+Detectable | able to be noticed or discovered | noticeable;perceptible;discernible | undetectable;invisible | h |
+Concept | a general idea | idea;notion;theory | | m |
+# ---- Lecture 19 ----
+Explore | to travel around a place to learn about it | tour;travel around;discover | | e |
+Influence | the power to affect someone's thinking or actions | effect;impact;sway | | m |
+Primarily | mainly | mainly;chiefly;mostly | secondarily;partly | m |
+Evoke | to bring a memory or feeling into the mind | bring to mind;recall;stir | suppress | h |
+Rare | not happening or seen very often | uncommon;unusual;scarce | common;frequent | e |
+Afford | to have enough money to pay for something | pay for;manage;spare | | m |
+Inherent | existing as a natural, basic part of something | built-in;innate;natural | acquired;external | h |
+Integrity | the quality of being honest and having strong moral principles | honesty;honour;principle | dishonesty;corruption | m |
+Manipulation | dishonest control or change of something | falsification;tampering;distortion | | h |
+Philosophy | the study of the nature of life, truth and knowledge | thought;ethics;reasoning | | m | R
+Prohibit | to officially forbid something | ban;forbid;outlaw | allow;permit | m |
+Prospect | the possibility that something will happen | possibility;chance;likelihood | | m |
+Reserve | to arrange for something to be kept for you | book;hold;set aside | cancel | e |
+Affect | to have an influence on someone or something | influence;change;impact | | m |
+Scenario | a description of possible events | situation;case;possibility | | m |
+Supplement | to add something to make it complete | add to;boost;complement | | m |
+Suspend | to stop something for a period of time | postpone;halt;interrupt | resume;continue | m |
+Violation | an act of breaking a rule or law | breach;offence;infringement | compliance;obedience | m |
+Advocate | a person who publicly supports a cause | supporter;champion;defender | opponent;critic | m |
+Alleviate | to make pain or a problem less severe | relieve;ease;reduce | worsen;aggravate | h |
+Ambiguity | the quality of having more than one possible meaning | vagueness;uncertainty;obscurity | clarity;precision | h |
+Controversy | public disagreement about something | dispute;debate;argument | agreement;consensus | m |
+# ---- Lecture 20 ----
+Analogous | similar in some way | similar;comparable;alike | different;dissimilar | h |
+Impact | a strong effect on someone or something | effect;influence;consequence | | m |
+Articulate | to express ideas clearly in words | express;voice;communicate | mumble | h |
+Ascertain | to find out something for certain | determine;establish;find out | | h |
+Catastrophe | a sudden event causing great damage | disaster;calamity;tragedy | blessing;success | h |
+Constrain | to limit or restrict something | limit;restrict;restrain | free | h |
+Demolish | to completely destroy a building | destroy;knock down;tear down | build;construct | m |
+Emulate | to try to copy someone you admire | imitate;copy;follow | | h |
+Analogy | a comparison between two things to explain something | comparison;parallel;likeness | | h |
+Fragment | a small broken piece of something | piece;bit;shard | whole | m |
+Intricate | having many small parts or details | complex;detailed;elaborate | simple;plain | h |
+Mobilize | to organize people for a purpose | organize;gather;rally | disband;demobilize | h |
+Oversee | to watch and direct work | supervise;manage;monitor | | m |
+Perceive | to notice or become aware of something | notice;sense;observe | ignore;overlook | h |
+Pertinent | relevant to a particular matter | relevant;applicable;related | irrelevant;unrelated | h |
+Reconcile | to restore friendly relations | make peace;settle;resolve | alienate;divide | h |
+Respective | belonging to each one separately | own;individual;separate | common;shared | h |
+Surpass | to be better or greater than something | exceed;outdo;beat | fall behind | h |
+Transmit | to send a signal or message from one place to another | send;broadcast;relay | receive | m |
+Vulnerable | easily hurt or damaged | exposed;weak;defenceless | protected;resistant | m |
+Ambiguous | having more than one possible meaning | unclear;vague;equivocal | clear;unambiguous | h |
+Autonomous | independent and self-governing | independent;self-governing;sovereign | dependent;subordinate | h |
+Concise | short and clear | brief;short;succinct | wordy;lengthy | m |
+Consecutive | following one after another without a break | successive;continuous;straight | intermittent;irregular | h |
+Federal | relating to the central government of a country made up of states | national;central;governmental | local | h | R
+# ---- Lecture 21 ----
+Abandon | to leave someone or something completely | leave;desert;give up | keep;retain | m |
+Assertive | confident and direct in expressing opinions | confident;forceful;self-assured | timid;submissive | m |
+Tend | to usually behave in a particular way | be inclined;be likely;be prone | | m |
+Deduce | to reach a conclusion by reasoning | conclude;infer;work out | | h |
+Deteriorate | to become worse | worsen;decline;degenerate | improve;recover | h |
+Dominate | to be the most important or noticeable thing | overshadow;tower over;control | | m |
+Endorse | to publicly support or approve something | support;approve;back | oppose;reject | m |
+Potential | qualities that can develop and lead to success | promise;ability;capability | | m |
+Incur | to experience something unpleasant as a result of your actions | suffer;face;run up | avoid | h |
+Irrespective | without considering something | regardless;despite;notwithstanding | | h |
+Liable | legally responsible for something | responsible;accountable;answerable | exempt;immune | h |
+Vigorous | strong, active and full of energy | energetic;intense;strenuous | weak;feeble;gentle | m |
+Parameter | a limit or rule that controls how something is done | limit;guideline;criterion | | h |
+Predominant | most common or strongest | main;dominant;prevailing | minor;secondary | h |
+Restore | to bring something back to its original condition | renovate;repair;rebuild | damage;ruin | m |
+Coast | the land next to the sea | shore;seaside;beach | inland | e |
+Sovereign | fully independent and self-governing | independent;autonomous;self-governing | dependent;colonial | h |
+Successor | a person who takes a position after someone else | heir;replacement;next in line | predecessor | m |
+Validate | to check or prove that something is correct | confirm;verify;certify | invalidate;disprove | m |
+Utilize | to make use of something | use;employ;make use of | waste | m |
+Analysis | a detailed study of something | examination;study;evaluation | | m |
+Commercial | an advertisement on TV or radio | advertisement;advert;ad | | e |
+Stereotype | to judge people unfairly by a fixed general idea | label;typecast;pigeonhole | | h |
+# ---- Lecture 22 ----
+Acknowledge | to accept or admit that something is true or exists | admit;recognize;accept | deny;ignore | m |
+Mitigate | to make something less harmful or serious | reduce;lessen;alleviate | aggravate;intensify | h |
+Arbitrary | based on chance or personal choice rather than reason | random;unreasonable;capricious | reasoned;rational | h |
+Complementary | going well together and improving each other | compatible;matching;harmonious | incompatible;conflicting | h |
+Apprehensive | worried that something bad will happen | anxious;nervous;uneasy | calm;confident | h |
+Inept | lacking skill | incompetent;clumsy;unskilled | skilful;competent | h |
+Execute | to carry out a plan or task | carry out;perform;accomplish | abandon | m |
+Hierarchical | arranged in levels of rank or importance | ranked;layered;tiered | flat;egalitarian | h |
+Hypothetical | based on an imagined situation | imaginary;theoretical;supposed | real;actual | h |
+Incentivize | to encourage someone by offering a reward | motivate;encourage;reward | discourage;deter | h |
+Impeccable | perfect; without any mistakes | flawless;perfect;faultless | flawed;imperfect | h |
+Legitimate | allowed by law, or fair and reasonable | valid;lawful;genuine | illegal;invalid | m |
+Pinnacle | the highest point of something | peak;summit;height | bottom;low point | h |
+Paradigm | a typical model or pattern of something | model;pattern;framework | | h |
+Deceptively | in a way that seems different from reality | misleadingly;seemingly;apparently | | h | R
+Presume | to suppose something is true without proof | assume;suppose;believe | doubt | m |
+Intrinsic | belonging naturally to something | inherent;innate;natural | extrinsic;external | h |
+Refute | to prove that a statement is wrong | disprove;rebut;deny | prove;confirm | h |
+Sanction | an official penalty for breaking a rule or law | penalty;punishment;embargo | reward;incentive | h |
+Discreetly | in a careful way so as not to attract attention | quietly;secretly;tactfully | openly;conspicuously | h |
+Unify | to bring together into one | unite;join;merge | divide;separate | m |
+Warped | bent or twisted out of shape | bent;twisted;distorted | straight;flat | m |
+Inquisitive | eager to learn or know things | curious;questioning;inquiring | uninterested;indifferent | m |
+Incoherent | not clear or logical; hard to understand | confused;unclear;jumbled | coherent;clear | h |
+Empirical | based on observation or experiment | experimental;observed;practical | theoretical;hypothetical | h |
+# ---- Lecture 23 ----
+Abundant | existing in large amounts | plentiful;ample;rich | scarce;sparse | m |
+Apparent | easy to see or understand | obvious;clear;evident | hidden;unclear | m |
+Bolster | to support or strengthen something | strengthen;boost;reinforce | weaken;undermine | h |
+Diminish | to become or make smaller or less | decrease;reduce;shrink | increase;grow | m |
+Disclose | to make something known publicly | reveal;announce;release | conceal;hide | m |
+Emerge | to appear or become known | appear;arise;surface | disappear;vanish | m |
+Exploit@23 | to make full use of something, such as a resource | use;utilize;harness | waste | h |
+Imply | to suggest something without saying it directly | suggest;hint;indicate | state;declare | m |
+Negate | to cancel out the effect of something | cancel out;nullify;undo | confirm;validate | h |
+Overwhelm | to affect someone very strongly | overpower;overcome;swamp | | m |
+Substantiate | to provide evidence to prove something | prove;support;confirm | disprove;refute | h |

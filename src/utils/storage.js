@@ -1,5 +1,6 @@
 // The only module that touches localStorage. Everything else works with plain state objects.
 // Reads never throw: missing, corrupted or out-of-date data falls back to defaults.
+import { isLectureId } from '../data/vocabulary'
 import { emptyWord, STATES } from './spacedRepetition'
 
 const STORAGE_KEY = 'vocab11:state:v1'
@@ -104,7 +105,7 @@ export function sanitizeState(raw, validIds) {
       sound: typeof settings.sound === 'boolean' ? settings.sound : base.settings.sound,
     },
     last: {
-      lectureId: Number.isInteger(last.lectureId) && last.lectureId >= 1 && last.lectureId <= 11 ? last.lectureId : null,
+      lectureId: isLectureId(last.lectureId) ? last.lectureId : null,
       wordId: typeof last.wordId === 'string' && validIds.has(last.wordId) ? last.wordId : null,
     },
   }

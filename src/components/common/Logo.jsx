@@ -14,7 +14,7 @@ export function Logo() {
       <LogoMark />
       <div className="leading-tight">
         <p className="font-display text-xl font-bold tracking-tight">Vocab11</p>
-        <p className="text-xs text-muted">11 Lectures. One Goal.</p>
+        <p className="text-xs text-muted">Every Lecture. One Goal.</p>
       </div>
     </div>
   )

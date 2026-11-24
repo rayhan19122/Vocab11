@@ -26,11 +26,10 @@ function Ring({ percent, completed }) {
   )
 }
 
-/** Lecture 01 → 11 as a path. Each stop shows its ring (progress), status label and a "you are here" marker. */
+/** Every lecture, in order, as a path. Each stop shows its ring (progress), status label and a "you are here" marker. */
 export function LectureJourney({ stats, currentId }) {
   return (
-    <ol className="relative grid grid-cols-4 gap-x-2 gap-y-6 sm:grid-cols-6 lg:grid-cols-11">
-      <span aria-hidden="true" className="absolute top-6 right-6 left-6 hidden h-0.5 bg-line lg:block" />
+    <ol className="relative grid grid-cols-4 gap-x-2 gap-y-6 sm:grid-cols-7">
       {stats.map((item) => {
         const completed = item.status === 'completed'
         const label = `${lectureLabel(item.lectureId)}: ${STATUS_LABELS[item.status]}, ${item.percent}% complete, ${item.mastered} mastered`

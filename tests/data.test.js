@@ -1,6 +1,7 @@
 import { readFileSync } from 'node:fs'
 import { describe, expect, it } from 'vitest'
-import { lectures, vocabulary } from '../src/data/vocabulary'
+import { isLectureId, lectureIds, lectures, vocabulary } from '../src/data/vocabulary'
+import { parseSource } from '../src/utils/sources'
 import { splitAtTerm } from '../src/utils/terms'
 
 const pdf = JSON.parse(readFileSync(new URL('../data-source/pdf-source.json', import.meta.url), 'utf8')).lectures
@@ -18,7 +19,7 @@ describe('synonym and antonym example sentences', () => {
         expect(splitAtTerm(sentence, term), `${item.word}/${term}: ${sentence}`).not.toBeNull()
       }
     }
-    expect(total).toBe(1097)
+    expect(total).toBe(2202)
   })
 
   it('keeps the original PDF sentence separate from the written examples', () => {
@@ -33,15 +34,36 @@ describe('synonym and antonym example sentences', () => {
 })
 
 describe('vocabulary dataset', () => {
-  it('has 11 lectures of 25 words and 275 entries', () => {
-    expect(lectures).toHaveLength(11)
+  it('has 21 lectures (1-11 and 13-23, as numbered in the PDFs) of 25 words each', () => {
+    expect(lectureIds).toEqual([1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 13, 14, 15, 16, 17, 19, 20, 21, 22, 23])
+    expect(lectures.map((lecture) => lecture.id)).toEqual(lectureIds)
     lectures.forEach((lecture) => expect(vocabulary.filter((item) => item.lecture === lecture.id)).toHaveLength(25))
-    expect(vocabulary).toHaveLength(275)
+    expect(vocabulary).toHaveLength(525)
   })
 
-  it('has unique ids and no duplicate words', () => {
-    expect(new Set(vocabulary.map((item) => item.id)).size).toBe(275)
-    expect(new Set(vocabulary.map((item) => item.word.toLowerCase())).size).toBe(275)
+  it('accepts only real lecture numbers', () => {
+    expect(isLectureId(13)).toBe(true)
+    expect(isLectureId(12)).toBe(false)
+    expect(isLectureId(18)).toBe(false)
+    expect(parseSource('23')).toBe(23)
+    expect(parseSource('18')).toBe('all')
+  })
+
+  it('has unique ids and no word twice in one lecture', () => {
+    expect(new Set(vocabulary.map((item) => item.id)).size).toBe(525)
+    for (const id of lectureIds) {
+      const words = vocabulary.filter((item) => item.lecture === id).map((item) => item.word.toLowerCase())
+      expect(new Set(words).size, `Lecture ${id}`).toBe(25)
+    }
+  })
+
+  it('gives a repeated word its own meaning where the lecture uses another sense', () => {
+    const secure = vocabulary.filter((item) => item.word === 'Secure')
+    expect(secure.map((item) => item.lecture)).toEqual([1, 14])
+    expect(secure[0].meaning).not.toBe(secure[1].meaning)
+    const trigger = vocabulary.filter((item) => item.word === 'Trigger')
+    expect(trigger.map((item) => item.lecture)).toEqual([17, 19, 21])
+    expect(new Set(trigger.map((item) => item.example)).size).toBe(3)
   })
 
   it('matches the PDF transcription word for word and sentence for sentence', () => {

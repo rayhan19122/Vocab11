@@ -1,7 +1,7 @@
 import { useEffect, useMemo, useState } from 'react'
 import { Link, Navigate, useParams } from 'react-router-dom'
 import { ChevronLeft, ChevronRight, ChevronsDownUp, ChevronsUpDown, GraduationCap, Play, SearchX } from 'lucide-react'
-import { vocabulary } from '../data/vocabulary'
+import { isLectureId, lectureIds, vocabulary } from '../data/vocabulary'
 import { useProgress } from '../hooks/useProgress'
 import { useToast } from '../hooks/useToast'
 import { lectureStats, wordRecord } from '../utils/progress'
@@ -49,7 +49,11 @@ function sortWords(items, sort, state) {
 export default function LectureDetail() {
   const params = useParams()
   const lectureId = Number(params.lectureId)
-  const valid = Number.isInteger(lectureId) && lectureId >= 1 && lectureId <= 11
+  const valid = isLectureId(lectureId)
+  // Lecture numbers have gaps (there is no Lecture 12 or 18), so step through the real list.
+  const position = lectureIds.indexOf(lectureId)
+  const prevId = position > 0 ? lectureIds[position - 1] : null
+  const nextId = position >= 0 && position < lectureIds.length - 1 ? lectureIds[position + 1] : null
   usePageTitle(valid ? lectureLabel(lectureId) : 'Lectures')
   const { state, actions } = useProgress()
   const toast = useToast()
@@ -185,16 +189,16 @@ export default function LectureDetail() {
       )}
 
       <nav aria-label="Lecture navigation" className="mt-10 flex justify-between gap-3">
-        {lectureId > 1 ? (
-          <Button to={`/lectures/${lectureId - 1}`} variant="secondary" icon={ChevronLeft}>
-            {lectureLabel(lectureId - 1)}
+        {prevId ? (
+          <Button to={`/lectures/${prevId}`} variant="secondary" icon={ChevronLeft}>
+            {lectureLabel(prevId)}
           </Button>
         ) : (
           <span />
         )}
-        {lectureId < 11 && (
-          <Button to={`/lectures/${lectureId + 1}`} variant="secondary" iconRight={ChevronRight}>
-            {lectureLabel(lectureId + 1)}
+        {nextId && (
+          <Button to={`/lectures/${nextId}`} variant="secondary" iconRight={ChevronRight}>
+            {lectureLabel(nextId)}
           </Button>
         )}
       </nav>

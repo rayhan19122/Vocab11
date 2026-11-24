@@ -11,11 +11,18 @@ const pdf = JSON.parse(readFileSync(join(root, 'data-source/pdf-source.json'), '
 const errors = []
 const check = (ok, message) => { if (!ok) errors.push(message) }
 
+// Lecture numbers follow the PDFs: 1-11 and 13-23 (the second PDF has no Lecture 12 or 18).
+const EXPECTED_LECTURES = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 13, 14, 15, 16, 17, 19, 20, 21, 22, 23]
 const lectureNumbers = [...new Set(vocabulary.map((item) => item.lecture))].sort((a, b) => a - b)
-check(lectureNumbers.length === 11 && lectureNumbers.every((n, i) => n === i + 1), `Expected lectures 1-11, got ${lectureNumbers.join(',')}`)
-check(vocabulary.length === 275, `Expected 275 entries, got ${vocabulary.length}`)
+check(lectureNumbers.join(',') === EXPECTED_LECTURES.join(','), `Expected lectures ${EXPECTED_LECTURES.join(',')}, got ${lectureNumbers.join(',')}`)
+check(Object.keys(pdf).map(Number).sort((a, b) => a - b).join(',') === EXPECTED_LECTURES.join(','), 'PDF transcription lectures differ from the expected list')
+check(vocabulary.length === EXPECTED_LECTURES.length * 25, `Expected ${EXPECTED_LECTURES.length * 25} entries, got ${vocabulary.length}`)
 check(new Set(vocabulary.map((item) => item.id)).size === vocabulary.length, 'Duplicate IDs found')
-check(new Set(vocabulary.map((item) => item.word.toLowerCase())).size === vocabulary.length, 'Duplicate words found across lectures')
+// A word may repeat across lectures (the PDFs revisit some words), but never inside one lecture.
+for (const lecture of lectureNumbers) {
+  const words = vocabulary.filter((item) => item.lecture === lecture).map((item) => item.word.toLowerCase())
+  check(new Set(words).size === words.length, `Lecture ${lecture}: duplicate word`)
+}
 
 for (const lecture of lectureNumbers) {
   const items = vocabulary.filter((item) => item.lecture === lecture)
@@ -29,7 +36,7 @@ for (const lecture of lectureNumbers) {
   })
 }
 
-const idPattern = /^l(0[1-9]|1[01])-w(0[1-9]|1\d|2[0-5])$/
+const idPattern = /^l(0[1-9]|[12]\d)-w(0[1-9]|1\d|2[0-5])$/
 // A sentence "uses" a term when it contains the start of the term's longest word (so inflections like "conquered" count).
 const usesTerm = (sentence, term) => {
   const longest = term.toLowerCase().split(/[\s-]+/).sort((a, b) => b.length - a.length)[0]
@@ -61,7 +68,8 @@ for (const item of vocabulary) {
 const withAntonyms = vocabulary.filter((item) => item.antonyms.length).length
 const related = vocabulary.filter((item) => item.related).length
 const diff = (level) => vocabulary.filter((item) => item.difficulty === level).length
-console.log(`Entries: ${vocabulary.length} | lectures: ${lectureNumbers.length} | with antonyms: ${withAntonyms} | related-flagged: ${related}`)
+const repeated = vocabulary.length - new Set(vocabulary.map((item) => item.word.toLowerCase())).size
+console.log(`Entries: ${vocabulary.length} (${repeated} repeat a word from another lecture) | lectures: ${lectureNumbers.length} | with antonyms: ${withAntonyms} | related-flagged: ${related}`)
 console.log(`Term examples: ${vocabulary.reduce((sum, item) => sum + Object.keys(item.termExamples).length, 0)}`)
 console.log(`Difficulty: easy ${diff('easy')}, medium ${diff('medium')}, hard ${diff('hard')}`)
 if (errors.length) {

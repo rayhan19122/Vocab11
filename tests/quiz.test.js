@@ -79,3 +79,26 @@ describe('quiz generation', () => {
     expect(pool).toEqual(copy)
   })
 })
+
+describe('words that appear in more than one lecture', () => {
+  const repeated = vocabulary.filter((item) => vocabulary.some((other) => other.id !== item.id && other.word === item.word))
+
+  it('never offers the same word, or the same option twice, as a choice', () => {
+    for (let round = 0; round < 20; round += 1) {
+      for (const type of ['meaning', 'synonym', 'antonym', 'fill']) {
+        for (const question of buildQuiz({ type, pool: repeated, count: repeated.length, synonymStyle: 'single' })) {
+          if (!question.options) continue
+          const labels = question.options.map((option) => option.label.toLowerCase())
+          expect(new Set(labels).size, `${question.kind} ${question.target || question.wordId}`).toBe(labels.length)
+          const word = vocabulary.find((item) => item.id === question.wordId)
+          const twins = vocabulary.filter((item) => item.id !== word.id && item.word === word.word)
+          const wrong = labels.filter((label) => label !== String(question.answer).toLowerCase())
+          for (const twin of twins) {
+            const twinLabels = [twin.meaning, ...twin.synonyms].map((label) => label.toLowerCase())
+            if (question.kind === 'meaning' || question.kind === 'synonym-single') expect(wrong.filter((label) => twinLabels.includes(label))).toEqual([])
+          }
+        }
+      }
+    }
+  })
+})

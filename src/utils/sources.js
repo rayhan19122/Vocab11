@@ -1,5 +1,5 @@
 // Turns a "what do you want to study" choice into a list of words.
-import { vocabulary } from '../data/vocabulary'
+import { isLectureId, vocabulary } from '../data/vocabulary'
 import { shuffle } from './random'
 import { isDue, isWeak } from './spacedRepetition'
 import { wordRecord } from './progress'
@@ -23,7 +23,7 @@ export function sourceLabel(source) {
 export function parseSource(value, fallback = SOURCE_ALL) {
   if ([SOURCE_ALL, SOURCE_WEAK, SOURCE_DUE, SOURCE_RANDOM].includes(value)) return value
   const id = Number(value)
-  return Number.isInteger(id) && id >= 1 && id <= 11 ? id : fallback
+  return isLectureId(id) ? id : fallback
 }
 
 export function wordsForSource(source, state, words = vocabulary, now = new Date()) {

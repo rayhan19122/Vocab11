@@ -15,10 +15,10 @@ export default function Lectures() {
 
   return (
     <>
-      <PageHeader eyebrow="Library" title="Lectures" description="Eleven lectures, 25 words each. Pick one and learn every word with its 3 synonyms." />
+      <PageHeader eyebrow="Library" title="Lectures" description={`${lectures.length} lectures, 25 words each. Pick one and learn every word with its 3 synonyms.`} />
 
       <Card className="mb-8">
-        <SectionHeader eyebrow="Lecture journey" title={`${completed} of 11 completed`} className="mb-6" />
+        <SectionHeader eyebrow="Lecture journey" title={`${completed} of ${lectures.length} completed`} className="mb-6" />
         <LectureJourney stats={stats} currentId={state.last.lectureId} />
       </Card>
 

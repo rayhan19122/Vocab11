@@ -1,6 +1,7 @@
-# Vocab11 — 11 Lectures. One Goal.
+# Vocab11 — Every Lecture. One Goal.
 
-A vocabulary learning app for the 11 lectures in `11 Lectures .pdf`: 275 words, 3 synonyms each.
+A vocabulary learning app for 21 lectures: Lectures 1-11 from `11 Lectures .pdf` and Lectures 13-17, 19-23 from `Lec 13-23.pdf`
+(that PDF has no Lecture 12 or 18, so the app keeps the PDF numbering and skips them). 525 words, 3 synonyms each.
 React + Vite + Tailwind CSS + Lucide. No backend: progress is saved in your browser (localStorage).
 
 ## Run it
@@ -25,7 +26,7 @@ pnpm data:validate   # checks src/data/vocabulary.js against the PDF transcripti
 | File | What it is |
 | --- | --- |
 | `data-source/pdf-source.json` | Words and original example sentences, transcribed verbatim from the PDF |
-| `data-source/content.txt` | Meaning, 3 synonyms, antonyms, difficulty for every word (`R` = no true synonym, closest related words) |
+| `data-source/content.txt` | Meaning, 3 synonyms, antonyms, difficulty for every word (`R` = no true synonym, closest related words). A word that appears in several lectures shares one row; a `Word@<lecture>` row (e.g. `Secure@14`) gives one lecture its own sense |
 | `data-source/term-examples.txt` | An example sentence for every synonym and antonym (written for this app, not from the PDF) |
 | `src/data/vocabulary.js` | **Generated** by `pnpm data:build` from the three files above. Do not edit by hand |
 
